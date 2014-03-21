@@ -8,8 +8,10 @@ module.exports = (grunt) ->
     paths:
       images: "img"
       js: "js"
+      coffee: "_js"
       css: "css"
       sass: "_sass"
+      bootstrap: "bower_components/bootstrap-sass/vendor/assets"
 
     connect:
       server:
@@ -34,6 +36,31 @@ module.exports = (grunt) ->
         noUniversalSelectors: false
       files:
           src: ['<%= paths.css %>/app.css']
+
+    coffee:
+      compile:
+        files: '<%= paths.coffee %>/custom.js': '<%= paths.coffee %>/custom.coffee'
+
+    uglify:
+      options:
+        mangle: false
+      my_target:
+        files: 'js/app.js': [
+          '<%= paths.bootstrap %>/javascripts/bootstrap/transition.js',
+          '<%= paths.bootstrap %>/javascripts/bootstrap/alert.js',
+          '<%= paths.bootstrap %>/javascripts/bootstrap/modal.js',
+          '<%= paths.bootstrap %>/javascripts/bootstrap/dropdown.js',
+          '<%= paths.bootstrap %>/javascripts/bootstrap/scrollspy.js',
+          '<%= paths.bootstrap %>/javascripts/bootstrap/tab.js',
+          '<%= paths.bootstrap %>/javascripts/bootstrap/tooltip.js',
+          '<%= paths.bootstrap %>/javascripts/bootstrap/popover.js',
+          '<%= paths.bootstrap %>/javascripts/bootstrap/button.js',
+          '<%= paths.bootstrap %>/javascripts/bootstrap/collapse.js',
+          '<%= paths.bootstrap %>/javascripts/bootstrap/carousel.js',
+          '<%= paths.bootstrap %>/javascripts/bootstrap/affix.js',
+          '<%= paths.bootstrap %>/javascripts/bootstrap/.js',
+          '<%= paths.coffee %>/custom.js'
+        ]
 
     sass:
       options:
@@ -60,9 +87,9 @@ module.exports = (grunt) ->
         options:
           livereload: true
       js:
-        files: ['<%= paths.js %>/*.js']
-        tasks: ['js', 'shell:jekyllBuild']
+        files: ['<%= paths.coffee %>/*.js', '<%= paths.coffee %>/*.coffee']
+        tasks: ['coffee', 'uglify', 'shell:jekyllBuild']
         options:
           livereload: true
 
-    grunt.registerTask 'default', ['sass', 'shell', 'connect', 'watch']
+    grunt.registerTask 'default', ['sass', 'coffee', 'uglify', 'shell', 'connect', 'watch']
