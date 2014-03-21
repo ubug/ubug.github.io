@@ -1,0 +1,9 @@
+
+$break-large: 1024px;
+
+.entry-title {
+    @media screen and (min-width: $break-large) {
+        margin: 45px 0;
+        font-size: 4rem;
+    }
+}
