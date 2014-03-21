@@ -16,6 +16,7 @@ module.exports = (grunt) ->
     connect:
       server:
         options:
+          hostname: '0.0.0.0'
           port: 4000
           base: '_site'
 
