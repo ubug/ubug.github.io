@@ -4,3 +4,4 @@ pygments: true
 venu: <a href="http://suu.edu">Southern Utah University</a>
 year: 2014
 eventdate: May 29th &amp; 30th 2014
+exclude: [node_modules, Gruntfile.js, package.json, bower.json, _js, _sass]
