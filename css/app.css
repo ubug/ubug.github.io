@@ -4361,11 +4361,14 @@ button.close {
     display: none !important; } }
 
 #top {
+  color: #333;
+  background: #fff;
   height: 323px;
-  background-color: #333;
   text-align: center;
   margin-top: -20px;
   padding-top: 100px; }
+  #top a {
+    color: #fff; }
 
 /* GLOBAL STYLES
 -------------------------------------------------- */
@@ -4456,6 +4459,9 @@ body {
 
 .sponsors h2 {
   color: #d9534f; }
+@media (max-width: 768px) {
+  .sponsors .col-xs-12, .sponsors .col-md-3 {
+    margin: 10px 0; } }
 
 .page h2 {
   margin: 40px 0; }
