@@ -27,16 +27,23 @@ $navbar-default-bg:                #5b4279 !default;
 }
 
 .page-lead {
-  @include center-block;
+  @include center-block();
   margin: 50px 0;
+  color: $brand-primary;
   @media (max-width: $small-break-point) {
     font-size: 20px;
     margin: 20px 0;
   }
 }
 
+.centered {
+  width: 100%;
+  @include center-block();
+}
+
 
 @import "bootstrap";
 @import 'modules/_header';
+@import 'modules/_base';
 @import 'modules/_home';
 @import 'modules/_posts';
