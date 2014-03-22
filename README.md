@@ -35,7 +35,7 @@ Here are the files you need to worry about:
 └── index.html
 ```
 
-**An overview of what each of these files does:**
+### An overview of what each of these files does:
 
 `_config.yml` This is the most important file. It contains information unique to
 the host of the conference. This is where you change the year of the conference,
