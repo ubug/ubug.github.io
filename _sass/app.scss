@@ -1,9 +1,43 @@
+$brand-primary: #d9534f; /* Change to your School's color #5b4279, #d9534f, #a71510 */
+$font-family-sans-serif: "Open Sans",sans-serif;
+$small-break-point: 480px;
+$navbar-default-color:             #5b4279 !default;
+$navbar-default-bg:                #5b4279 !default;
 
-$header-font-family: "Open Sans",sans-serif;
-$body-font-family: "Open Sans",sans-serif;
-$primary-color: #09c !default;
+
+@mixin center-block() {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sponsors {
+  width: 100%;
+  @include center-block();
+  h2 {
+    color: $brand-primary;
+  }
+}
+
+.cover-heading {
+  font-size: 3em;
+  @media (max-width: $small-break-point) {
+    font-size: 2em;
+  }
+}
+
+.page-lead {
+  @include center-block;
+  margin: 50px 0;
+  @media (max-width: $small-break-point) {
+    font-size: 20px;
+    margin: 20px 0;
+  }
+}
+
 
 @import "bootstrap";
-@import 'modules/_cover';
+@import 'modules/_header';
+@import 'modules/_carousel';
 @import 'modules/_home';
 @import 'modules/_posts';

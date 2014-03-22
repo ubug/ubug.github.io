@@ -1,7 +1,8 @@
-name: UBUG 2014 Conference
+name: UBUG Conference
 markdown: redcarpet
 pygments: true
 venu: <a href="http://suu.edu">Southern Utah University</a>
+city: Cedar City
 year: 2014
 eventdate: May 29th &amp; 30th 2014
 exclude: [node_modules, Gruntfile.coffee, package.json, bower.json, _js, _sass]
