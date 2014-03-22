@@ -42,8 +42,9 @@
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
                 <li><a href="/schedule/">Schedule</a></li>
-                <li><a href="/sponsors/">Sponsors</a></li>
                 <li><a href="/location/">Location</a></li>
+                <li><a href="/sponsors/">Sponsors</a></li>
+                <li><a href="/accommodations/">Accommodations</a></li>
                 <li><a href="/register/">Register</a></li>
               </ul>
             </div><!-- /navbar-collapse -->
@@ -53,20 +54,14 @@
       </div><!-- /container -->
     </div><!-- /navbar-wrapper -->
 
-    <div id="top">
-      <h1 class="cover-heading">{{ site.name }}</h1>
-      <p class="lead">{{ site.eventdate }} at {{ site.venu }}</p>
-
-      <p class="lead">
-        <a href="/register/" class="btn btn-lg btn-primary">Register</a>
-      </p>
-    </div>
+    {% include site_header.html %}
 
     <div class="container">
 
       {{ content }}
 
 
+      <hr class="featurette-divider">
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="/schedule/">Schedule</a> | <a href="/sponsors/">Sponsors</a> | <a href="/location/">Location</a></p>

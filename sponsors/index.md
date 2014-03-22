@@ -1,9 +1,7 @@
 ---
-layout: default
-title: UBUG Sponsors
+layout: page
+title: Sponsors
 ---
-
-<h1 class="page-lead">Sponsors</h1>
 
 ## Ellucian
 

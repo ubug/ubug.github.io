@@ -1,35 +1,4 @@
 /* Change to your School's color #5b4279, #d9534f, #a71510 */
-.sponsors {
-  width: 100%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto; }
-  .sponsors h2 {
-    color: #d9534f; }
-
-.cover-heading {
-  font-size: 3em; }
-  @media (max-width: 480px) {
-    .cover-heading {
-      font-size: 2em; } }
-
-.page-lead {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin: 50px 0;
-  color: #d9534f; }
-  @media (max-width: 480px) {
-    .page-lead {
-      font-size: 20px;
-      margin: 20px 0; } }
-
-.centered {
-  width: 100%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto; }
-
 /*! normalize.css v3.0.0 | MIT License | git.io/normalize */
 html {
   font-family: sans-serif;
@@ -4405,6 +4374,12 @@ body {
   padding-bottom: 40px;
   color: #5a5a5a; }
 
+.cover-heading {
+  font-size: 3em; }
+  @media (max-width: 480px) {
+    .cover-heading {
+      font-size: 2em; } }
+
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 /* Special class on .container surrounding .navbar, used for positioning it into place. */
@@ -4413,39 +4388,14 @@ body {
   top: 0;
   right: 0;
   left: 0;
-  z-index: 20; }
-
-/* Flip around the padding for proper display in narrow viewports */
-.navbar-wrapper .container {
-  padding-right: 0;
-  padding-left: 0; }
-
-.navbar-wrapper .navbar {
-  padding-right: 15px;
-  padding-left: 15px; }
-
-/* CUSTOMIZE THE CAROUSEL
--------------------------------------------------- */
-/* Carousel base class */
-.carousel {
-  height: 500px;
-  margin-bottom: 60px; }
-
-/* Since positioning the image, we need to help out the caption */
-.carousel-caption {
-  z-index: 10; }
-
-/* Declare heights because of positioning of img element */
-.carousel .item {
-  height: 500px;
-  background-color: #777; }
-
-.carousel-inner > .item > img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  min-width: 100%;
-  height: 500px; }
+  z-index: 20;
+  /* Flip around the padding for proper display in narrow viewports */ }
+  .navbar-wrapper .container {
+    padding-right: 0;
+    padding-left: 0; }
+  .navbar-wrapper .navbar {
+    padding-right: 15px;
+    padding-left: 15px; }
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
@@ -4453,23 +4403,20 @@ body {
 .marketing {
   padding-right: 15px;
   padding-left: 15px; }
-
-/* Center align the text within the three columns below the carousel */
-.marketing .col-lg-4 {
-  margin-bottom: 20px;
-  text-align: center; }
-
-.marketing h2 {
-  font-weight: normal; }
-
-.marketing .col-lg-4 p {
-  margin-right: 10px;
-  margin-left: 10px; }
+  .marketing .col-lg-4 {
+    /* Center align the text within the three columns */
+    margin-bottom: 20px;
+    text-align: center; }
+  .marketing h2 {
+    font-weight: normal; }
+  .marketing .col-lg-4 p {
+    margin-right: 10px;
+    margin-left: 10px; }
 
 /* Featurettes
 ------------------------- */
 .featurette-divider {
-  margin: 40px 0;
+  margin: 20px 0;
   /* Space out the Bootstrap <hr> more */ }
 
 /* Thin out the marketing headings */
@@ -4484,7 +4431,6 @@ body {
   /* Remove the edge padding needed for mobile */
   /* Navbar positioning foo */
   /* The navbar becomes detached from the top, so we round the corners */
-  /* Bump up size of carousel content */
   .marketing {
     padding-right: 0;
     padding-left: 0; }
@@ -4498,13 +4444,29 @@ body {
     padding-left: 0; }
   .navbar-wrapper .navbar {
     border-radius: 4px; }
-  .carousel-caption p {
-    margin-bottom: 20px;
-    font-size: 21px;
-    line-height: 1.4; }
   .featurette-heading {
-    font-size: 50px; } }
+    font-size: 50px; }
+  .featurette-divider {
+    margin: 40px 0;
+    /* Less spaced out on mobile devices. */ } }
 
 @media (min-width: 992px) {
   .featurette-heading {
     margin-top: 120px; } }
+
+.sponsors h2 {
+  color: #d9534f; }
+
+.page h2 {
+  margin: 40px 0; }
+  @media (max-width: 480px) {
+    .page h2 {
+      margin: 20px 0; } }
+
+.page-lead {
+  margin: 50px 0;
+  color: #d9534f; }
+  @media (max-width: 480px) {
+    .page-lead {
+      font-size: 20px;
+      margin: 20px 0; } }
