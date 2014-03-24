@@ -65,7 +65,7 @@ module.exports = (grunt) ->
 
     sass:
       options:
-        style: "compressed",
+        outputStyle: "compressed",
         includePaths: ['bower_components/bootstrap-sass/vendor/assets/stylesheets/bootstrap']
       dist:
         files:
