@@ -16,16 +16,16 @@ We designed this website to be simple to maintain and easy to hand off to the
 next host of the UBUG conference. Out of all the files and folders you see here,
 there are really only a few files that you need to modify.
 
-Here are the files you need to worry about:
+**Here are the files you need to worry about:**
 
 ```
 ├── _config.yml
 ├── _includes
-|   ├── site_header.html
+|   └── site_header.html
 ├── accommodations
-|   ├── index.md
+|   └── index.md
 ├── location
-|   ├── index.md
+|   └── index.md
 ├── register
 |   ├── index.html
 ├── schedule
