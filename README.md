@@ -56,3 +56,7 @@ as parking, building/room info, etc.
 
 `index.html` The home page. Many details are pulled from `_config.yml`. You may
 need to update the sponsors listed on this page.
+
+## Developers
+
+If you are interested in editing more than the files listed above, please see the [developer documentation](https://github.com/ubug/ubug.github.io/wiki/Developer-Guide).
