@@ -3,15 +3,12 @@ layout: page
 title: Sponsors
 ---
 
-## Ellucian
+[![Ellucian](/img/ellucian.jpeg)][ellucian]
 
-![Ellucian](/img/ellucian.jpeg)
+[![TouchNet](/img/touchnet.jpeg)][touchnet]
 
-## TouchNet
+[![Information Builders](/img/ibi.jpeg)][informationbuilders]
 
-![TouchNet](/img/touchnet.jpeg)
-
-
-## Information Builders
-
-![Information Builders](/img/ibi.jpeg)
+[ellucian]: http://www.ellucian.com/
+[informationbuilders]: http://www.informationbuilders.com/
+[touchnet]: http://www.touchnet.com/prod/index.html
