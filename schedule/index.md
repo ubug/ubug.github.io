@@ -3,7 +3,7 @@ layout: page
 title: Schedule
 ---
 <div class="alert alert-danger">
-    <strong>Heads up!</strong> Breakout session details for some of tracks are <abbr title="To be determined">TBD</abbr>.
+    <strong>Heads up!</strong> Breakout session details for some of tracks are <abbr title="To be announced">TBA</abbr>.
 </div>
 
 ## Thursday, May 29, 2014
@@ -84,10 +84,10 @@ title: Schedule
 
 ### Registration
 
-* Breakout #1:
-* Breakout #2:
-* Breakout #3:
-* Breakout #4:
+* Breakout #1: TBA
+* Breakout #2: TBA
+* Breakout #3: TBA
+* Breakout #4: TBA
 * Breakout #5: Birds of a Feather
 
 ### Technical
