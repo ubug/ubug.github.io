@@ -60,9 +60,9 @@ title: Schedule
 
 ### Financial Aid
 
-* Breakout #1: TBA
-* Breakout #2: TBA
-* Breakout #3: TBA
+* Breakout #1: Algorithmic Budgeting
+* Breakout #2: Period-Based Awarding
+* Breakout #3: Online SAP Counseling
 * Breakout #4: TBA
 * Breakout #5: Birds of a Feather
 
@@ -85,7 +85,7 @@ title: Schedule
 ### Registration
 
 * Breakout #1: TBA
-* Breakout #2: TBA
+* Breakout #2: Banner XE - Ellucian Presentation
 * Breakout #3: TBA
 * Breakout #4: TBA
 * Breakout #5: Birds of a Feather
