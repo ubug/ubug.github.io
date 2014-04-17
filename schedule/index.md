@@ -52,18 +52,18 @@ title: Schedule
  
 ### Finance
 
-* Breakout #1: TBA
-* Breakout #2: TBA
+* Breakout #1: Using Attributes for Customized Reporting
+* Breakout #2: Banner Finance Approvals
 * Breakout #3: TBA
 * Breakout #4: TBA
 * Breakout #5: Birds of a Feather
 
 ### Financial Aid
 
-* Breakout #1: Algorithmic Budgeting
-* Breakout #2: Period-Based Awarding
-* Breakout #3: Online SAP Counseling
-* Breakout #4: TBA
+* Breakout #1: Online SAP Counseling (Denise Vandevanter UVU)
+* Breakout #2: Period-Based Awarding (Trish Howard UVU)
+* Breakout #3: Automating Individualized Verification and Award Letters (Terry Bell DSU)
+* Breakout #4: Algorithmic Budgeting (Jared Hallows SUU)
 * Breakout #5: Birds of a Feather
 
 ### Payroll/HR
