@@ -37,7 +37,7 @@ title: Schedule
 ### Admissions
 
 * Breakout #1: Birds of a Feather
-* Breakout #2: Banner XE Presentation by Ellucian
+* Breakout #2: Banner XE Presentation by Ellucian (Track combined with Registration)
 * Breakout #3: Ellucian's Recruiter by Ellucian
 * Breakout #4: Utah Valley University's Recruiter implementation by Elvina Adakai
 * Breakout #5: Electronic High School Transcripts by Clint Thomsen & Kelsey Carroll
@@ -85,7 +85,7 @@ title: Schedule
 ### Registration
 
 * Breakout #1: TBA
-* Breakout #2: Banner XE - Ellucian Presentation
+* Breakout #2: Banner XE - Ellucian Presentation (Track combined with Admissions)
 * Breakout #3: TBA
 * Breakout #4: TBA
 * Breakout #5: Birds of a Feather
