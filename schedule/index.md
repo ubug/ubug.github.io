@@ -84,9 +84,9 @@ title: Schedule
 
 ### Registration
 
-* Breakout #1: TBA
+* Breakout #1: Register Using Degree Works Student Plan - Robert Johnson from UVU
 * Breakout #2: Banner XE - Ellucian Presentation (Track combined with Admissions)
-* Breakout #3: TBA
+* Breakout #3: Graduation Made Simpler From Start to Finish - Kristin Wiggins and Sheila Johnson from SUU
 * Breakout #4: TBA
 * Breakout #5: Birds of a Feather
 
