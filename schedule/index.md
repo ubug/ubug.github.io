@@ -53,8 +53,26 @@ title: Schedule
 ### Finance
 
 * Breakout #1: Using Attributes for Customized Reporting
+  * Candi Pierce
+  * Functional Tech Support
+  * Business Services Office
+  * Dixie State University 
+ 
+  Description:  Learn how to link attributes to FOAPAL elements and join them with financial data to create customized  reports.  Attributes can allow you to create unlimited groupings or categories of data without having to build new or alter existing FOAPAL hierarchies.
 * Breakout #2: Banner Finance Approvals
-* Breakout #3: TBA
+  * Wendy Rosenlof
+  * Senior Accountant
+  * Utah Valley University
+  * WendyR@uvu.edu
+
+  Description:  Approval queues allow Banner documents to be approved electronically based on the criteria established when creating them.  Learn how to set up approval queues, create a chain of approval and create customized rules groups.  Also shown will be a customization UVU made in Banner self-serve for Mass Approvals so users don't have to approve documents one by one.
+* Breakout #3: Using GASB Attributes for Financial Statements
+  * Wendy Rosenlof
+  * Senior Accountant
+  * Utah Valley University
+  * WendyR@uvu.edu
+
+  Description:  Learn how to use GASB attributes and the GASB extract process to generate GASB financial statements from Banner. 
 * Breakout #4: TBA
 * Breakout #5: Birds of a Feather
 
