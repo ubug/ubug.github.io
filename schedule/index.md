@@ -46,11 +46,9 @@ title: Schedule
 
 * Breakout #1: TBA
 * Breakout #2: Gift Processing Best Practices
-
-    Topics covered may include: Hard Credit vs Soft Credit, Automatic vs Manual Soft Credits, Matching Gifts, and 3rd party pledge payments.
+  * Topics covered may include: Hard Credit vs Soft Credit, Automatic vs Manual Soft Credits, Matching Gifts, and 3rd party pledge payments.
 * Breakout #3: Activities and Special Purpose Codes to track constituent involvement
-
-    Topics covered may include: When to use an Activity Code instead of a Donor Category Code (on APACONS). when to use a Special Purpose code instead of an Activity Code, and discuss who in your office would manage updating these codes as a constituent's involvement changes.
+  * Topics covered may include: When to use an Activity Code instead of a Donor Category Code (on APACONS). when to use a Special Purpose code instead of an Activity Code, and discuss who in your office would manage updating these codes as a constituent's involvement changes.
 * Breakout #4: TBA
 * Breakout #5: Birds of a Feather
  
