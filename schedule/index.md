@@ -112,7 +112,7 @@ title: Schedule
 
 ### Technical
 
-* Breakout #1: Priority Registration and Deadlocks - Duane Black 
+* Breakout #1: Priority Registration and Deadlocks - Duane Black & Ryan Merrill
 * Breakout #2:  Banner XE Presentation by Ellucian
 * Breakout #3: Data Cookbook - Lucas Jones
 * Breakout #4:  Encrypting Client Connections & Oracle External Password Store -April
