@@ -7,6 +7,6 @@ school: SUU
 year: 2014
 eventdate: May 29th &amp; 30th 2014
 registration_form: https://docs.google.com/forms/d/1oSO2I5uKn7kKcM0sel9fcMcpr72stCYqsfhLayAsWDQ/viewform?embedded=true
-register_button_text: Register for Free
+register_button_text: Register for $25
 register_button_help_text: Free until May 9th, after that $25/person.
 exclude: [node_modules, Gruntfile.coffee, package.json, bower.json, _js, _sass]
