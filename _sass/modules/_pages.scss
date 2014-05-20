@@ -6,12 +6,20 @@
       font-size: 18px;
     }
   }
-    h3 {
+  h3 {
         color: $brand-primary;
         @media (max-width: $small-break-point) {
             font-size: 16px;
         }
-    }
+  }
+  ul {
+      page-break-inside: avoid;
+  }
+
+}
+
+.page-break {
+    page-break-after: always;
 }
 
 .page-lead {

@@ -1,4 +1,4 @@
-<div id="top">
+<div id="top" class="hidden-print">
   <h1 class="cover-heading"><img class="image-responsive" src="/img/bug.png" style="height: 50px;"> {{ site.name }}</h1>
   <p class="lead">{{ site.eventdate }} at {{ site.school }}</p>
 
@@ -9,3 +9,7 @@
     {{ site.register_button_help_text }}
   </p>
 </div>
+<div class="visible-print">
+    <h1 class="cover-heading"><img class="image-responsive" src="/img/bug.png" style="height: 50px;"> {{ site.name }} {{ site.year }}</h1>
+  <p class="lead">{{ site.eventdate }} at {{ site.school }}</p>
+</div>  
