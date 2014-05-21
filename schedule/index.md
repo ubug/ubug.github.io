@@ -84,7 +84,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ### Payroll/HR
 
-#### <i class="fa fa-location-arrow"></i> Starlight
+#### <i class="fa fa-location-arrow"></i> Starlight (upstairs)
 
 * <span class="text-primary">Breakout #1:</span> **Supplemental Data Engine/Combined Limit Deducts** by SLCC/Weber
 * <span class="text-primary">Breakout #2:</span> **Banner HR Data uses for campus** by SUU - tentative

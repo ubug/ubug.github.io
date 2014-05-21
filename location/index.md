@@ -21,4 +21,4 @@ Meetings will be in the Convention Center on the South side of the [Sharwan Smit
 [<img class="img-responsive" alt="Sharwan Smith Student Center" src="/img/sharwan.jpg">][sharwan]
 
 
-[sharwan]: https://www.suu.edu/eventservices/pdf/ssc/SSC-Level-100-map.pdf
+[sharwan]: /img/sssc-ubug-2014.pdf
