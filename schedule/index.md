@@ -78,7 +78,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 * <span class="text-primary">Breakout #1:</span> **Online SAP Counseling** by Denise Vandevanter UVU
 * <span class="text-primary">Breakout #2:</span> **Period-Based Awarding** by Trish Howard UVU
-* <span class="text-primary">Breakout #3:</span> **Automating Individualized Verification and Award Letters** by Terry Bell DSU
+* <span class="text-primary">Breakout #3:</span> **Managing problem areas with Direct Loans** by Terry Bell DSU
 * <span class="text-primary">Breakout #4:</span> **Algorithmic Budgeting** by Jared Hallows SUU
 * <span class="text-primary">Breakout #5:</span> **Birds of a Feather**
 
