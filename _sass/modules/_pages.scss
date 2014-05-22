@@ -15,6 +15,10 @@
   ul {
       page-break-inside: avoid;
   }
+  a {text-decoration: underline!important;}
+  a:hover {text-decoration: none!important;}
+  a.btn {text-decoration: none!important;}
+
 
 }
 

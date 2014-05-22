@@ -3,29 +3,31 @@ layout: page
 title: <i class="fa fa-calendar"></i> Schedule
 ---
 
+<p class="lead"><a href="/img/sssc-ubug-2014.pdf"><i class="fa fa-map-marker"></i> Venue Map</a></p>
+
 ## Thursday, May 29, 2014
 
-* <i class="fa fa-clock-o"></i> 1:00 - 1:30 Registration meet and greet <span class="text-primary"><i class="fa fa-location-arrow"></i> Ballroom B</span>
-* <i class="fa fa-clock-o"></i> 1:30 - 3:00 Opening Session (Henry Devries - Ellucian) <span class="text-primary"><i class="fa fa-location-arrow"></i> Sterling Church Auditorium</span>
+* <i class="fa fa-clock-o"></i> 1:00 - 1:30 Registration meet and greet <span class="text-primary"><i class="fa fa-map-marker"></i> Ballroom B</span>
+* <i class="fa fa-clock-o"></i> 1:30 - 3:00 Opening Session (Henry Devries - Ellucian) <span class="text-primary"><i class="fa fa-map-marker"></i> Sterling Church Auditorium</span>
 * <i class="fa fa-clock-o"></i> 3:00 - 3:45 Breakout #1
-* <i class="fa fa-clock-o"></i> 3:45 - 4:15 Break Vendor exhibits <span class="text-primary"><i class="fa fa-location-arrow"></i> Ballroom B</span>
+* <i class="fa fa-clock-o"></i> 3:45 - 4:15 Break Vendor exhibits <span class="text-primary"><i class="fa fa-map-marker"></i> Ballroom B</span>
 * <i class="fa fa-clock-o"></i> 4:15 - 5:00 Breakout #2
-* <i class="fa fa-clock-o"></i> 5:30 - 7:30 Dinner / Social <span class="text-primary"><i class="fa fa-location-arrow"></i> Cedar City East Canyon Park</span>
+* <i class="fa fa-clock-o"></i> 5:30 - 7:30 Dinner / Social <span class="text-primary"><i class="fa fa-map-marker"></i> Cedar City East Canyon Park</span>
 
 ## Friday, May 30, 2014
 
 * <i class="fa fa-clock-o"></i> 08:30 - 09:15 Breakout #3
 * <i class="fa fa-clock-o"></i> 09:30 - 10:15 Breakout #4
-* <i class="fa fa-clock-o"></i> 10:15 - 10:45 Snack / Drink <span class="text-primary"><i class="fa fa-location-arrow"></i> Ballroom B</span>
+* <i class="fa fa-clock-o"></i> 10:15 - 10:45 Snack / Drink <span class="text-primary"><i class="fa fa-map-marker"></i> Ballroom B</span>
 * <i class="fa fa-clock-o"></i> 11:00 - 11:45 Breakout #5 Birds of a Feather
-* <i class="fa fa-clock-o"></i> 12:00 - 12:30 Closing Session / Gifts / Door Prizes <span class="text-primary"><i class="fa fa-location-arrow"></i> Sterling Church Auditorium</span>
+* <i class="fa fa-clock-o"></i> 12:00 - 12:30 Closing Session / Gifts / Door Prizes <span class="text-primary"><i class="fa fa-map-marker"></i> Sterling Church Auditorium</span>
 
 
 ## <i class="fa fa-bars"></i> Tracks
 
 ### Accounts Receivable
 
-#### <i class="fa fa-location-arrow"></i> Escalante
+#### <i class="fa fa-map-marker"></i> Escalante
 
 * <span class="text-primary">Breakout #1:</span>  **Effective Priority Code Management** by Michael Richter WSU
 * <span class="text-primary">Breakout #2:</span>  **DSU's Billing Process using Banner** by Carlene Holm
@@ -35,7 +37,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ### Admissions
 
-#### <i class="fa fa-location-arrow"></i> Cedar Breaks
+#### <i class="fa fa-map-marker"></i> Cedar Breaks
 
 * <span class="text-primary">Breakout #1:</span> **Birds of a Feather**
 * <span class="text-primary">Breakout #2:</span> **Banner XE Presentation** by Ellucian (Track combined with Registration)
@@ -47,7 +49,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ### Advancement
 
-#### <i class="fa fa-location-arrow"></i> Zion B
+#### <i class="fa fa-map-marker"></i> Zion B
 
 * <span class="text-primary">Breakout #1:</span> **TBA**
 * <span class="text-primary">Breakout #2:</span> **Gift Processing Best Practices**  
@@ -59,7 +61,7 @@ title: <i class="fa fa-calendar"></i> Schedule
  
 ### Finance
 
-#### <i class="fa fa-location-arrow"></i> Ballroom A
+#### <i class="fa fa-map-marker"></i> Ballroom A
 
 * <span class="text-primary">Breakout #1:</span> **Using Attributes for Customized Reporting**  by Candi Pierce UVU  
 <span class="text-muted">**Description:**  Learn how to link attributes to FOAPAL elements and join them with financial data to create customized  reports.  Attributes can allow you to create unlimited groupings or categories of data without having to build new or alter existing FOAPAL hierarchies.</span>
@@ -72,7 +74,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ### Financial Aid
 
-#### <i class="fa fa-location-arrow"></i> Great Basin
+#### <i class="fa fa-map-marker"></i> Great Basin
 
 * <span class="text-primary">Breakout #1:</span> **Online SAP Counseling** by Denise Vandevanter UVU
 * <span class="text-primary">Breakout #2:</span> **Period-Based Awarding** by Trish Howard UVU
@@ -84,7 +86,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ### Payroll/HR
 
-#### <i class="fa fa-location-arrow"></i> Starlight (upstairs)
+#### <i class="fa fa-map-marker"></i> Starlight (upstairs)
 
 * <span class="text-primary">Breakout #1:</span> **Supplemental Data Engine/Combined Limit Deducts** by SLCC/Weber
 * <span class="text-primary">Breakout #2:</span> **Banner HR Data uses for campus** by SUU - tentative
@@ -94,7 +96,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ### Reporting
 
-#### <i class="fa fa-location-arrow"></i> Zion A
+#### <i class="fa fa-map-marker"></i> Zion A
 
 * <span class="text-primary">Breakout #1:</span> **Tableau Server Admin Part 1** by Thom Gourley UEN
 * <span class="text-primary">Breakout #2:</span> **Tableau Server Admin Part 2** by Thom Gourley UEN
@@ -104,7 +106,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ### Registration
 
-#### <i class="fa fa-location-arrow"></i> Brian Head
+#### <i class="fa fa-map-marker"></i> Brian Head
 
 * <span class="text-primary">Breakout #1:</span> **Register Using Degree Works Student Plan** by Robert Johnson UVU
 * <span class="text-primary">Breakout #2:</span> **Banner XE - Ellucian Presentation** (Track combined with Admissions)
@@ -114,7 +116,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ### Technical
 
-#### <i class="fa fa-location-arrow"></i> Ballroom C
+#### <i class="fa fa-map-marker"></i> Ballroom C
 
 * <span class="text-primary">Breakout #1:</span> **Priority Registration and Deadlocks** by Duane Black & Ryan Merrill USU
 * <span class="text-primary">Breakout #2:</span> **Migrating to 12c RDBMS - Step-Ordered Approach** by April Sims SUU
