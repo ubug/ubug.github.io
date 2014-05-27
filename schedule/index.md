@@ -12,7 +12,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <i class="fa fa-clock-o"></i> 3:00 - 3:45 Breakout #1
 * <i class="fa fa-clock-o"></i> 3:45 - 4:15 Break Vendor exhibits <span class="text-primary"><i class="fa fa-map-marker"></i> Ballroom B</span>
 * <i class="fa fa-clock-o"></i> 4:15 - 5:00 Breakout #2
-* <i class="fa fa-clock-o"></i> 5:30 - 7:30 Dinner / Social <span class="text-primary"><i class="fa fa-map-marker"></i> Cedar City West Canyon Park</span>
+* <i class="fa fa-clock-o"></i> 5:30 - 7:30 Dinner / Social <span class="text-primary"><i class="fa fa-map-marker"></i> [Cedar City West Canyon Park](https://www.google.com/maps/place/119+S+400+E/@37.675189,-113.054466,18z/data=!3m1!4b1!4m2!3m1!1s0x80b561b5d47a118d:0x5880eaa95bfa82a7)</span>
 
 ## Friday, May 30, 2014
 
