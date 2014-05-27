@@ -40,7 +40,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 #### <i class="fa fa-map-marker"></i> Cedar Breaks
 
 * <span class="text-primary">Breakout #1:</span> **Birds of a Feather**
-* <span class="text-primary">Breakout #2:</span> **Banner XE Presentation** by Ellucian (Track combined with Registration)
+* <span class="text-primary">Breakout #2:</span> **Banner XE Presentation** by Ellucian <span class="text-primary"><i class="fa fa-map-marker"></i> Sterling Church Auditorium </span>
 * <span class="text-primary">Breakout #3:</span> **Ellucian's Recruiter** by Ellucian
 * <span class="text-primary">Breakout #4:</span> **Utah Valley University's Recruiter implementation** by Elvina Adakai
 * <span class="text-primary">Breakout #5:</span> **Electronic High School Transcripts** by Clint Thomsen & Kelsey Carroll
@@ -109,7 +109,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 #### <i class="fa fa-map-marker"></i> Brian Head
 
 * <span class="text-primary">Breakout #1:</span> **Register Using Degree Works Student Plan** by Robert Johnson UVU
-* <span class="text-primary">Breakout #2:</span> **Banner XE - Ellucian Presentation** (Track combined with Admissions)
+* <span class="text-primary">Breakout #2:</span> **Banner XE - Ellucian Presentation** <span class="text-primary"><i class="fa fa-map-marker"></i> Sterling Church Auditorium </span>
 * <span class="text-primary">Breakout #3:</span> **Graduation Made Simpler From Start to Finish** by Kristin Wiggins and Sheila Johnson SUU
 * <span class="text-primary">Breakout #4:</span> **TBA**
 * <span class="text-primary">Breakout #5:</span> **Birds of a Feather**
