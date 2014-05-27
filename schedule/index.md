@@ -35,6 +35,8 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <span class="text-primary">Breakout #4:</span>  **Vendor Presentation** by Touchnet
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
 
+<p class="page-break"></p>
+
 ### Admissions
 
 #### <i class="fa fa-map-marker"></i> Cedar Breaks
@@ -44,8 +46,6 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <span class="text-primary">Breakout #3:</span> **Ellucian's Recruiter** by Ellucian
 * <span class="text-primary">Breakout #4:</span> **Utah Valley University's Recruiter implementation** by Elvina Adakai
 * <span class="text-primary">Breakout #5:</span> **Electronic High School Transcripts** by Clint Thomsen & Kelsey Carroll
-
-<p class="page-break"></p>
 
 ### Advancement
 
@@ -72,6 +72,8 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <span class="text-primary">Breakout #4:</span> **TBA**
 * <span class="text-primary">Breakout #5:</span> **Birds of a Feather**
 
+<p class="page-break"></p>
+
 ### Financial Aid
 
 #### <i class="fa fa-map-marker"></i> Great Basin
@@ -81,8 +83,6 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <span class="text-primary">Breakout #3:</span> **Managing problem areas with Direct Loans** by Terry Bell DSU
 * <span class="text-primary">Breakout #4:</span> **Algorithmic Budgeting** by Jared Hallows SUU
 * <span class="text-primary">Breakout #5:</span> **Birds of a Feather**
-
-<p class="page-break"></p>
 
 ### Payroll/HR
 
