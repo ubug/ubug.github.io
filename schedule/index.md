@@ -8,7 +8,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 ## Thursday, May 29, 2014
 
 * <i class="fa fa-clock-o"></i> 1:00 - 1:30 Registration meet and greet <span class="text-primary"><i class="fa fa-map-marker"></i> Ballroom B</span>
-* <i class="fa fa-clock-o"></i> 1:30 - 3:00 Opening Session (Henry Devries - Ellucian) <span class="text-primary"><i class="fa fa-map-marker"></i> Sterling Church Auditorium “Mining Data for Student Success.”</span> 
+* <i class="fa fa-clock-o"></i> 1:30 - 3:00 Opening Session (Henry Devries - Ellucian) <span class="text-primary"><i class="fa fa-map-marker"></i> Sterling Church Auditorium </span>  “Mining Data for Student Success.”
 * <i class="fa fa-clock-o"></i> 3:00 - 3:45 Breakout #1
 * <i class="fa fa-clock-o"></i> 3:45 - 4:15 Break Vendor exhibits <span class="text-primary"><i class="fa fa-map-marker"></i> Ballroom B</span>
 * <i class="fa fa-clock-o"></i> 4:15 - 5:00 Breakout #2
