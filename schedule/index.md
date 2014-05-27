@@ -57,6 +57,8 @@ title: <i class="fa fa-calendar"></i> Schedule
   <span class="text-muted">**Description:** Topics covered may include: When to use an Activity Code instead of a Donor Category Code (on APACONS). when to use a Special Purpose code instead of an Activity Code, and discuss who in your office would manage updating these codes as a constituent's involvement changes.</span>
 * <span class="text-primary">Breakout #4:</span> **TBA**
 * <span class="text-primary">Breakout #5:</span> **Birds of a Feather**
+
+<p class="page-break"></p>
  
 ### Finance
 
@@ -70,8 +72,6 @@ title: <i class="fa fa-calendar"></i> Schedule
 <span class="text-muted">**Description:**  Learn how to use GASB attributes and the GASB extract process to generate GASB financial statements from Banner.</span>
 * <span class="text-primary">Breakout #4:</span> **TBA**
 * <span class="text-primary">Breakout #5:</span> **Birds of a Feather**
-
-<p class="page-break"></p>
 
 ### Financial Aid
 
@@ -112,8 +112,6 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <span class="text-primary">Breakout #3:</span> **Graduation Made Simpler From Start to Finish** by Kristin Wiggins and Sheila Johnson SUU
 * <span class="text-primary">Breakout #4:</span> **TBA**
 * <span class="text-primary">Breakout #5:</span> **Birds of a Feather**
-
-<p class="page-break"></p>
 
 ### Technical
 
