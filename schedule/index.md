@@ -98,8 +98,8 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 #### <i class="fa fa-map-marker"></i> Zion A
 
-* <span class="text-primary">Breakout #1:</span> **Tableau Server Admin Part 1** by Thom Gourley UEN
-* <span class="text-primary">Breakout #2:</span> **Tableau Server Admin Part 2** by Thom Gourley UEN
+* <span class="text-primary">Breakout #1:</span> **Tableau Desktop** by Breanne Humphries (with intro by Bryan Peterson) UEN
+* <span class="text-primary">Breakout #2:</span> **Tableau Server Admin** by Thom Gourley (with intro by Bryan Peterson) UEN
 * <span class="text-primary">Breakout #3:</span> **A Lean Data Warehouse and the Power of PL/SQL Functions** by Bryce Caine SUU
 * <span class="text-primary">Breakout #4:</span> **SUU's Portal Reports** by Bryce Caine SUU
 * <span class="text-primary">Breakout #5:</span> **Birds of a Feather**
