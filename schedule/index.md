@@ -22,6 +22,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <i class="fa fa-clock-o"></i> 11:00 - 11:45 Breakout #5 Birds of a Feather
 * <i class="fa fa-clock-o"></i> 12:00 - 12:30 Closing Session / Gifts / Door Prizes <span class="text-primary"><i class="fa fa-map-marker"></i> Sterling Church Auditorium</span>
 
+<p class="page-break"></p>
 
 ## <i class="fa fa-bars"></i> Tracks
 
@@ -34,8 +35,6 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <span class="text-primary">Breakout #3:</span>  **PCI DSS--Done Right or Wrong?** by Weston Whitworth ISU (tentative)
 * <span class="text-primary">Breakout #4:</span>  **Vendor Presentation** by Touchnet
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
-
-<p class="page-break"></p>
 
 ### Admissions
 
