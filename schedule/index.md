@@ -3,6 +3,8 @@ layout: page
 title: <i class="fa fa-calendar"></i> Schedule
 ---
 
+<p class="lead"><a href="/img/sssc-ubug-2014.pdf"><i class="fa fa-map-marker"></i> Venue Map</a></p>
+
 ## Thursday, May 29, 2014
 
 * <i class="fa fa-clock-o"></i> 1:00 - 1:30 Registration meet and greet <span class="text-primary"><i class="fa fa-map-marker"></i> Ballroom B</span>
