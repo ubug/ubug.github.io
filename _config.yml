@@ -1,12 +1,12 @@
 name: UBUG Conference
 markdown: redcarpet
 pygments: true
-venue: <a href="http://suu.edu">Southern Utah University</a>
-city: Cedar City
-school: SUU
-year: 2014
-eventdate: May 29th &amp; 30th 2014
+venue: <a href="http://dixie.edu/">Dixie State University</a>
+city: St George
+school: DSU
+year: 2015
+eventdate: May 14th &amp; 15th 2015
 registration_form: https://docs.google.com/forms/d/1oSO2I5uKn7kKcM0sel9fcMcpr72stCYqsfhLayAsWDQ/viewform?embedded=true
 register_button_text: Register for $25
-register_button_help_text: Free until May 9th, after that $25/person.
+register_button_help_text: See you in 2015.
 exclude: [node_modules, Gruntfile.coffee, package.json, bower.json, _js, _sass]
