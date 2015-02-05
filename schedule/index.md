@@ -1,10 +1,9 @@
 ---
 layout: page
 title: <i class="fa fa-calendar"></i> Schedule
----
 
-Coming Soon
-<!--
+
+
 <p class="lead"><a href="/img/sssc-ubug-2014.pdf"><i class="fa fa-map-marker"></i> Venue Map</a></p>
 
 ## Thursday, May 29, 2014
@@ -124,4 +123,5 @@ Coming Soon
 * <span class="text-primary">Breakout #3:</span> **Data Cookbook** by Lucas Jones WSU
 * <span class="text-primary">Breakout #4:</span> **Encrypting Client Connections & Oracle External Password Store** by April Sims SUU
 * <span class="text-primary">Breakout #5:</span> **Birds of a Feather**  
-<span class="text-muted">**Topics:** Code Deployment Strategies, Banner Data Defense, ...</span> -->
+<span class="text-muted">**Topics:** Code Deployment Strategies, Banner Data Defense, ...</span> 
+---
