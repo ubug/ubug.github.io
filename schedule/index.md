@@ -5,7 +5,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 
 ## 2015 Schedule coming soon
----html
+```html
 <!--
 <p class="lead"><a href="/img/sssc-ubug-2014.pdf"><i class="fa fa-map-marker"></i> Venue Map</a></p>
 
@@ -128,4 +128,4 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <span class="text-primary">Breakout #5:</span> **Birds of a Feather**  
 <span class="text-muted">**Topics:** Code Deployment Strategies, Banner Data Defense, ...</span> 
 -->
----
+```
