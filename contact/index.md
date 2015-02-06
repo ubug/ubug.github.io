@@ -8,7 +8,7 @@ Joe Belnap
 joe.belnap@uvu.edu
 
 **Conference Chair**  
-Terry Bell
+Terry Bell    
 bell@dixie.edu
 
 **Logistics**  
