@@ -8,41 +8,41 @@ Joe Belnap
 joe.belnap@uvu.edu
 
 **Conference Chair**  
-Jeanette Lund  
-ormond@suu.edu
+Terry Bell 
+bell@dixie.edu
 
 **Logistics**  
-Annette Murray  
-murray@suu.edu
+James Miller  
+miller_j@dixie.edu
 
 ## Track Chairs
 
 ### Accounts Receivable
-Wes Brinkerhoff brinkerhoffw@suu.edu
+Carlene Holm holm@dixie.edu
 
 ### Admissions
-Amy Chrisman chrisman@suu.edu
+Lauralee Davenport ldavenport@dixie.edu
 
 ### Advancement
 Carol Ruden cruden@weber.edu
 
 ### Finance
-Wendy Rosenlof  wendyr@uvu.edu
+Cheri Capps  capps@dixie.edu
 
 ### Financial Aid
-Denise Vandevanter  vandevde@uvu.edu
+Jared Hallows  hallows@suu.edu
 
 ### Payroll/HR
-Travis Rosenberg    rosenberg@suu.edu
+Krystal Thompson    thompsonk@dixie.edu
 
 ### Reporting
-Bryce Caine caine@suu.edu
+Andrea Brown abrown@dixie.edu
 
 ### Registration
-Sheila Johnson  johnson_s@suu.edu
+Julie Stender  stender@dixie.edu
 
 ### Technical
-April Sims sims@suu.edu  
-Parker Grimes grimesp@suu.edu
+Randy Hunt rhunt@dixie.edu  
+
 
 
