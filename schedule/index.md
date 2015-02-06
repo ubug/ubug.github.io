@@ -1,6 +1,8 @@
 ---
 layout: page
 title: <i class="fa fa-calendar"></i> Schedule
+---
+
 
 ## 2015 Schedule coming soon
 
@@ -124,4 +126,4 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <span class="text-primary">Breakout #4:</span> **Encrypting Client Connections & Oracle External Password Store** by April Sims SUU
 * <span class="text-primary">Breakout #5:</span> **Birds of a Feather**  
 <span class="text-muted">**Topics:** Code Deployment Strategies, Banner Data Defense, ...</span> 
----
+
