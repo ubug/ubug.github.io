@@ -2,7 +2,7 @@
 layout: page
 title: <i class="fa fa-calendar"></i> Schedule
 
-
+## 2015 Schedule coming soon
 
 <p class="lead"><a href="/img/sssc-ubug-2014.pdf"><i class="fa fa-map-marker"></i> Venue Map</a></p>
 
