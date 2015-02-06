@@ -18,31 +18,40 @@ miller_j@dixie.edu
 ## Track Chairs
 
 ### Accounts Receivable
-Carlene Holm holm@dixie.edu
+Carlene Holm   
+holm@dixie.edu
 
 ### Admissions
-Lauralee Davenport ldavenport@dixie.edu
+Lauralee Davenport   
+ldavenport@dixie.edu
 
 ### Advancement
-Carol Ruden cruden@weber.edu
+Carol Ruden   
+cruden@weber.edu
 
 ### Finance
-Cheri Capps  capps@dixie.edu
+Cheri Capps  
+capps@dixie.edu
 
 ### Financial Aid
-Jared Hallows  hallows@suu.edu
+Jared Hallows   
+hallows@suu.edu
 
 ### Payroll/HR
-Krystal Thompson    thompsonk@dixie.edu
+Krystal Thompson    
+thompsonk@dixie.edu
 
 ### Reporting
-Andrea Brown abrown@dixie.edu
+Andrea Brown   
+abrown@dixie.edu
 
 ### Registration
-Julie Stender  stender@dixie.edu
+Julie Stender     
+stender@dixie.edu
 
 ### Technical
-Randy Hunt rhunt@dixie.edu  
+Randy Hunt    
+rhunt@dixie.edu  
 
 
 
