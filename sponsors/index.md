@@ -3,7 +3,7 @@ layout: page
 title: Sponsors
 ---
 
-[![Strata](/img/strata.gif)[strata]
+[![Strata](/img/strata.gif)][strata]
 
 [strata]: http://www.sigcorp.com/
 
