@@ -33,6 +33,9 @@ cruden@weber.edu
 Cheri Capps  
 capps@dixie.edu
 
+Candi Pierce 
+pierce@dixie.edu
+
 ### Financial Aid
 Jared Hallows   
 hallows@suu.edu
@@ -40,6 +43,9 @@ hallows@suu.edu
 ### Payroll/HR
 Krystal Thompson    
 thompsonk@dixie.edu
+
+Rae Matalolo   
+matalolo@dixie.edu
 
 ### Reporting
 Andrea Brown   
