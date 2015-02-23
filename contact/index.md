@@ -33,7 +33,7 @@ cruden@weber.edu
 Cheri Capps  
 capps@dixie.edu
 
-Candi Pierce 
+Candi Pierce   
 pierce@dixie.edu
 
 ### Financial Aid
