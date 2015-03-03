@@ -7,13 +7,13 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ## Thursday, May 14, 2015
 
-* <i class="fa fa-clock-o"></i> 12:30 - 1:00 Registration meet and greet <span class="text-primary"><i class="fa fa-map-marker"></i> Ballroom B</span>
-* <i class="fa fa-clock-o"></i> 1:00 - 2:15 Opening Session - ** ** by (Ellucian)  <span class="text-primary"><i class="fa fa-map-marker"></i> Zions Room </span>  
+* <i class="fa fa-clock-o"></i> 12:30 - 1:00 Registration meet and greet <span class="text-primary"><i class="fa fa-map-marker"></i>Vendor Area </span>
+* <i class="fa fa-clock-o"></i> 1:00 - 2:15 Opening Session - ** ** by (Ellucian)  <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>  
 * <i class="fa fa-clock-o"></i> 2:15 - 3:00 Breakout #1
 * <i class="fa fa-clock-o"></i> 3:00 - 3:45 Vendor Session
 * <i class="fa fa-clock-o"></i> 3:45 - 4:30 Break Vendor exhibits <span class="text-primary"><i class="fa fa-map-marker"></i> Vendor Area</span>
 * <i class="fa fa-clock-o"></i> 4:30 - 5:15 Breakout #2
-* <i class="fa fa-clock-o"></i> 5:30 - 7:00 Dinner / Luau <span class="text-primary"><i class="fa fa-map-marker"></i> [](http://goo.gl/maps/0lHrA)</span>
+* <i class="fa fa-clock-o"></i> 5:30 - 7:00 Dinner / Luau <span class="text-primary"><i class="fa fa-map-marker"></i> [Gardner center ballroom](http://goo.gl/maps/0lHrA)</span>
 
 ## Friday, May 15, 2015
 
@@ -51,6 +51,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <span class="text-primary">Breakout #3:</span>  **TBA**
 * <span class="text-primary">Breakout #4:</span>  **TBA**
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
+
 ### Advancement
 
 #### <i class="fa fa-map-marker"></i> TBA
@@ -76,6 +77,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <span class="text-primary">Breakout #3:</span>  **TBA**
 * <span class="text-primary">Breakout #4:</span>  **TBA**
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
+
 ### Financial Aid
 
 #### <i class="fa fa-map-marker"></i> TBA
