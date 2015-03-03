@@ -6,7 +6,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 <p class="lead"><a href="/img/sssc-ubug-2014.pdf"><i class="fa fa-map-marker"></i> Venue Map</a></p> 
 
-## Thursday, May 29, 2014
+## Thursday, May 14, 2015
 
 * <i class="fa fa-clock-o"></i> 12:30 - 1:00 Registration meet and greet <span class="text-primary"><i class="fa fa-map-marker"></i> Ballroom B</span>
 * <i class="fa fa-clock-o"></i> 1:00 - 2:15 Opening Session - ** ** by (Ellucian)  <span class="text-primary"><i class="fa fa-map-marker"></i> Zions Room </span>  
@@ -16,7 +16,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <i class="fa fa-clock-o"></i> 4:30 - 5:15 Breakout #2
 * <i class="fa fa-clock-o"></i> 5:30 - 7:00 Dinner / Luau <span class="text-primary"><i class="fa fa-map-marker"></i> [](http://goo.gl/maps/0lHrA)</span>
 
-## Friday, May 30, 2014
+## Friday, May 15, 2015
 
 * <i class="fa fa-clock-o"></i> 08:00 - 08:30 Beakfast
 * <i class="fa fa-clock-o"></i> 08:30 - 09:15 Breakout #3
