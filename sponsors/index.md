@@ -3,8 +3,10 @@ layout: page
 title: Sponsors
 ---
 
+[![Ellucian](/img/ellucian.jpeg)][ellucian]
 [![Strata](/img/strata.gif)][strata]
 
+[ellucian]: http://www.ellucian.com/
 [strata]: http://www.sigcorp.com/
 
 ##More Comming Soon
