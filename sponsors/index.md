@@ -4,11 +4,11 @@ title: Sponsors
 ---
 
 [![Ellucian](/img/ellucian.jpeg)][ellucian]
-[![Strata](/img/strata.gif)][strata]       
 [![Touchnet](/img/touchnet.jpeg)][touchnet]
+[![Strata](/img/strata.gif)][strata]       
 [ellucian]: http://www.ellucian.com/
-[strata]: http://www.sigcorp.com/
 [touchnet]: http://http://www.touchnet.com/
+[strata]: http://www.sigcorp.com/
 
 ##More Coming Soon
 
