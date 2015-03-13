@@ -13,7 +13,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <i class="fa fa-clock-o"></i> 3:00 - 3:45 Vendor Session
 * <i class="fa fa-clock-o"></i> 3:45 - 4:30 Break Vendor exhibits <span class="text-primary"><i class="fa fa-map-marker"></i> Vendor Area</span>
 * <i class="fa fa-clock-o"></i> 4:30 - 5:15 Breakout #2
-* <i class="fa fa-clock-o"></i> 5:30 - 7:00 Dinner / Luau <span class="text-primary"><i class="fa fa-map-marker"></i> [Gardner center ballroom](http://goo.gl/maps/0lHrA)</span>
+* <i class="fa fa-clock-o"></i> 5:30 - 7:00 Dinner / Luau <span class="text-primary"><i class="fa fa-map-marker"></i> [Gardner center ballroom](https://goo.gl/maps/i3dPB)</span>
 
 ## Friday, May 15, 2015
 
