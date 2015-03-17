@@ -109,9 +109,9 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <span class="text-primary">Breakout #1:</span>  **TBA**
   <span class="text-muted">**Description:** TBA.</span>
 * <span class="text-primary">Vendor Session</span> **TBA**
-* <span class="text-primary">Breakout #2:</span>  **Data Cookbook for USHE Institutions by Rachel Ruiz, Weber State University**
+* <span class="text-primary">Breakout #2:</span>  **TBA**
+* <span class="text-primary">Breakout #3:</span>  **Data Cookbook for USHE Institutions by Rachel Ruiz, Weber State University**
  <span class="text-muted">**Description:** This session will cover how to utilize the USHE data book in the Data Cookbook as well as how to implement it for campus wide use. We will share the best-practices, style guide and training developed thus far for implementing the Data Cookbook at Weber State University.</span>
-* <span class="text-primary">Breakout #3:</span>  **TBA**
 * <span class="text-primary">Breakout #4:</span>  **TBA**
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
 
