@@ -6,9 +6,9 @@ title: Accommodations
 ## Popular near by hotels
 
 ###The Courtyard Marriott 
-185 S 1470 E<br />
-St George, UT
-(435) 986-0555
+185 S 1470 E                              
+St George, UT                                     
+(435) 986-0555                                     
 
 ###Hampton Inn
 53 S River Road
