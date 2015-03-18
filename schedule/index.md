@@ -3,7 +3,7 @@ layout: page
 title: <i class="fa fa-calendar"></i> Schedule
 ---
 
-<p class="lead"><a href="/img/sssc-ubug-2014.pdf"><i class="fa fa-map-marker"></i> Venue Map</a></p> 
+<p class="lead"><a href="/img/ubug-2015.pdf"><i class="fa fa-map-marker"></i> Venue Map</a></p> 
 
 ## Thursday, May 14, 2015
 
@@ -131,8 +131,8 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 #### <i class="fa fa-map-marker"></i> TBA
 
-* <span class="text-primary">Breakout #1:</span>  **TBA**
-  <span class="text-muted">**Description:** TBA.</span>
+* <span class="text-primary">Breakout #1:</span>  **Banner XE Registration LIVE and in Production by Carl Ellsworth, USU**
+  <span class="text-muted">**Description:** USU implemented several Banner XE modules including Registration which was live for their registration spike for summer and fall semester. Come hear the good, the bad, and the awesome concerning the experience.</span>
 * <span class="text-primary">Vendor Session</span> **TBA**
 * <span class="text-primary">Breakout #2:</span>  **TBA**
 * <span class="text-primary">Breakout #3:</span>  **TBA**
