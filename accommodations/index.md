@@ -3,7 +3,7 @@ layout: page
 title: Accommodations
 ---
 
-## Popular near by hotels
+## Popular nearby hotels
 
 ###The Courtyard Marriott 
 185 S 1470 E                              
