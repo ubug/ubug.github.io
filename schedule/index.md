@@ -71,8 +71,8 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 #### <i class="fa fa-map-marker"></i> TBA
 
-* <span class="text-primary">Breakout #1:</span>  **TBA**
-  <span class="text-muted">**Description:** TBA.</span>
+* <span class="text-primary">Breakout #1:</span>  **Faster Bank Recs by Karl Kovac, Snow College**
+  <span class="text-muted">**Description:** Automating your bank reconciliation.</span>
 * <span class="text-primary">Vendor Session</span> **TBA**
 * <span class="text-primary">Breakout #2:</span>  **TBA**
 * <span class="text-primary">Breakout #3:</span>  **TBA**
