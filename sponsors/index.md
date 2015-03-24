@@ -5,7 +5,7 @@ title: Sponsors
 
 [![Ellucian](/img/ellucian.jpeg)][ellucian]
 
-[![Evisions](/img/250-logo-evisons.png)][evisions]
+[![Evisions](/img/250-logo-evisions.png)][evisions]
 
 [![Touchnet](/img/touchnet.jpeg)][touchnet]
 
