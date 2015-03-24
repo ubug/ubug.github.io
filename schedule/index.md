@@ -7,7 +7,8 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ## Thursday, May 14, 2015
 
-* <i class="fa fa-clock-o"></i> TBA - 12:00 Argos Training <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>
+* <i class="fa fa-clock-o"></i> 8:30 - 9:00 PreConfrence Registration <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>
+* <i class="fa fa-clock-o"></i> 9:00 - 12:00 Argos Training <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>
 * <i class="fa fa-clock-o"></i> 12:30 - 1:00 Registration meet and greet <span class="text-primary"><i class="fa fa-map-marker"></i>Vendor Area </span>
 * <i class="fa fa-clock-o"></i> 1:00 - 2:15 Opening Session - ** ** by (Ellucian)  <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>  
 * <i class="fa fa-clock-o"></i> 2:15 - 3:00 Breakout #1
@@ -18,7 +19,6 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ## Friday, May 15, 2015
 
-* <i class="fa fa-clock-o"></i> 08:00 - 08:30 Beakfast
 * <i class="fa fa-clock-o"></i> 08:30 - 09:15 Breakout #3
 * <i class="fa fa-clock-o"></i> 09:15 - 10:00 Breakout #4
 * <i class="fa fa-clock-o"></i> 10:15 - 10:45 Break
