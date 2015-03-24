@@ -7,6 +7,6 @@ school: DSU
 year: 2015
 eventdate: May 14th &amp; 15th 2015
 registration_form: https://commerce.cashnet.com/WEBUBUG
-register_button_text: Register for $25
+register_button_text: Register for $25 Conference $35 Argos Training and Confrence
 register_button_help_text: See you in 2015.
 exclude: [node_modules, Gruntfile.coffee, package.json, bower.json, _js, _sass]
