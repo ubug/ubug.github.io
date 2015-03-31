@@ -107,13 +107,14 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 #### <i class="fa fa-map-marker"></i> TBA
 
-* <span class="text-primary">Breakout #1:</span>  **TBA**
-  <span class="text-muted">**Description:** TBA.</span>
+* <span class="text-primary">Breakout #1:</span>  **Compiling Data by Josh Vieira and Andrea Brown, Dixie State University**
 * <span class="text-primary">Vendor Session</span> **TBA**
-* <span class="text-primary">Breakout #2:</span>  **TBA**
+* <span class="text-primary">Breakout #2:</span>  **IPEDS Outcomes Measures by Geoff Matthews and Robert Loveridge, Utah Valley University**
+<span class="text-muted">**Description:** Examining the new IPEDS outcomes measure and current national metrics of graduation rates including Highest Undergraduate Degree, the Overall Graduation rate, SAM, IPEDS new Outcomes Measure Graduation rate for full and part time first time and transfer degree seeking students.</span>
 * <span class="text-primary">Breakout #3:</span>  **Data Cookbook for USHE Institutions by Rachel Ruiz, Weber State University**
  <span class="text-muted">**Description:** This session will cover how to utilize the USHE data book in the Data Cookbook as well as how to implement it for campus wide use. We will share the best-practices, style guide and training developed thus far for implementing the Data Cookbook at Weber State University.</span>
-* <span class="text-primary">Breakout #4:</span>  **TBA**
+* <span class="text-primary">Breakout #4:</span>  **Department Courses Serving Non-Departmental Majors by Tim Stanley, Utah Valley University**
+  <span class="text-muted">**Description:** Examining the internal demand for courses which details how departmental courses serve non departmental majors.</span>
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
 
 ### Registration
@@ -132,11 +133,13 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 #### <i class="fa fa-map-marker"></i> TBA
 
-* <span class="text-primary">Breakout #1:</span>  **Banner XE Registration LIVE and in Production by Carl Ellsworth, USU**
+* <span class="text-primary">Breakout #1:</span>  **Banner XE Registration LIVE and in Production by Carl Ellsworth, Utah State University**
   <span class="text-muted">**Description:** USU implemented several Banner XE modules including Registration which was live for their registration spike for summer and fall semester. Come hear the good, the bad, and the awesome concerning the experience.</span>
 * <span class="text-primary">Vendor Session</span> **TBA**
-* <span class="text-primary">Breakout #2:</span>  **TBA**
-* <span class="text-primary">Breakout #3:</span>  **TBA**
+* <span class="text-primary">Breakout #2:</span>  **Load Testing XE Registration using Apache JMeter by Ryan Merrill, Utah State University**
+  <span class="text-muted">**Description:** USU’s experience using JMeter to load test XE Registration in preparation for peak loads.  Lessons learned and insights gained.  Configurations allowing throughputs of 2000+ registrations processed per minute.</span>
+* <span class="text-primary">Breakout #3:</span>  **SSIDs and Banner by Carl Ellsworth, Utah State University**
+  <span class="text-muted">**Description:** USU has developed a package to update SSIDs in batch directly on the Banner database. This package connects to the State of Utah SSID web service directly from the Oracle Database.</span>
 * <span class="text-primary">Breakout #4:</span>  **TBA**
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
 
