@@ -7,11 +7,11 @@ title: Accommodations
 
 ###The Courtyard Marriott 
 185 S 1470 E                              
-St George, UT                                                            
+St George, UT 84790                                                            
 (435) 986-0555                                     
 
 ###Hampton Inn
-53 S River Roadi                                                           
+53 S River Road                                                            
 St George, UT 84790                                                             
 (435) 652-1200                                                                 
 
