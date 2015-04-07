@@ -95,12 +95,12 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 #### <i class="fa fa-map-marker"></i> TBA
 
-* <span class="text-primary">Breakout #1:</span>  **TBA**
-  <span class="text-muted">**Description:** TBA.</span>
+* <span class="text-primary">Breakout #1:</span>  **TBA, by Liz Turbyfill, Salt Lake Community College**
 * <span class="text-primary">Vendor Session</span> **TBA**
 * <span class="text-primary">Breakout #2:</span>  **TBA**
-* <span class="text-primary">Breakout #3:</span>  **TBA**
-* <span class="text-primary">Breakout #4:</span>  **TBA**
+* <span class="text-primary">Breakout #3:</span>  **FLAC - Faculty Load and Compensation by Greg Esplin, Dixie State University**
+  <span class="text-muted">**Description:** Banner module implemented to pay adjunct faculty.</span>
+* <span class="text-primary">Breakout #4:</span>  **Affordable Care Act implementation**
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
 
 ### Reporting
