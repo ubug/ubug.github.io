@@ -83,11 +83,10 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 #### <i class="fa fa-map-marker"></i> TBA
 
-* <span class="text-primary">Breakout #1:</span>  **TBA**
-  <span class="text-muted">**Description:** TBA.</span>
+* <span class="text-primary">Breakout #1:</span>  **Gainful Employment Workflow and Requirements by Tamara Allen and Sharron Robinette, Utah State University**
 * <span class="text-primary">Vendor Session</span> **TBA**
-* <span class="text-primary">Breakout #2:</span>  **TBA**
-* <span class="text-primary">Breakout #3:</span>  **TBA**
+* <span class="text-primary">Breakout #2:</span>  **New Direct Loan Setup and Procedures by Jared Hallows, Southern Utah University**
+* <span class="text-primary">Breakout #3:</span>  **Daily Uses of ARGOS in the Financial Aid Office by Terry Bell, Dixie State University**
 * <span class="text-primary">Breakout #4:</span>  **TBA**
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
 
