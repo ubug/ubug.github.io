@@ -34,7 +34,7 @@ title: <i class="fa fa-calendar"></i> Schedule
   <span class="text-muted">**Description:** In this session we will demonstrate the new product enhancements available in Argos 4.3 and Argos 4.4. Included in this release is the new MAPS data warehouse data for auditing, enhancements to Web Viewer, Content Delivery Network (CDN) and the ability to embed Dashboards directly into web pages. See examples of the pre-built data auditing DataBlocks available on the Evisions CO-OP.</span>
 * <span class="text-primary">Topic #2:</span> **Argos Technical Tips and Tricks**
   <span class="text-muted">**Description:** Argos has many components and features that have not been discovered by a typical Argos knowledgeable person. This technical session will provide great tips and tricks for the beginner (and maybe advanced) Argos user that will take you and your organization to the next level. Join us for this informative session!</span>
-* <span class="text-primary">Topic #2:</span> **Advanced Charting and OLAP Techniques**
+* <span class="text-primary">Topic #3:</span> **Advanced Charting and OLAP Techniques**
   <span class="text-muted">**Description:** This advanced Argos technical session will discuss the usage of charts (drilling down) and OLAP cubes (custom measures, grouping dimensions, and formatting output).</span>
 
 
