@@ -7,7 +7,7 @@ title: Sponsors
 
 [![Evisions](/img/250-logo-evisions.png)][evisions]
 
-[![Touchnet](/img/touchnet.jpeg)][touchnet]
+[![Touchnet](/img/TouchNet+heartland_logo_RGB.jpg)][touchnet]
 
 [![Strata](/img/strata.gif)][strata]       
 
