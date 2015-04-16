@@ -102,7 +102,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 #### <i class="fa fa-map-marker"></i> TBA
 
-* <span class="text-primary">Breakout #1:</span>  **TBA, by Liz Turbyfill, Salt Lake Community College**
+* <span class="text-primary">Breakout #1:</span>  **Electronic Tuition Waiver Process by Anne Woods and Tikey Drossos, Salt Lake Community College**
 * <span class="text-primary">Vendor Session</span> **TBA**
 * <span class="text-primary">Breakout #2:</span>  **TBA**
 * <span class="text-primary">Breakout #3:</span>  **FLAC - Faculty Load and Compensation by Greg Esplin, Dixie State University**
