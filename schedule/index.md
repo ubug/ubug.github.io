@@ -42,12 +42,11 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 #### <i class="fa fa-map-marker"></i> TBA
 
-* <span class="text-primary">Breakout #1:</span>  **TBA**
-  <span class="text-muted">**Description:** TBA.</span>
+* <span class="text-primary">Breakout #1:</span>  **Heuristic Management by Michael Richter, Weber State University**
 * <span class="text-primary">Vendor Session</span> **TBA**
-* <span class="text-primary">Breakout #2:</span>  **TBA**
-* <span class="text-primary">Breakout #3:</span>  **TBA**
-* <span class="text-primary">Breakout #4:</span>  **TBA**
+* <span class="text-primary">Breakout #2:</span>  **Save the Perkins Loan by Annette Murray, Southern Utah University**
+* <span class="text-primary">Breakout #3:</span>  **Cash Handling Training by Laura Crabtree, Salt Lake Comunitee College**
+* <span class="text-primary">Breakout #4:</span>  **New billing Forms by Wes Brinkerhoff Southern Utah University**
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
 
 ### Admissions
@@ -96,7 +95,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <span class="text-primary">Vendor Session</span> **TBA**
 * <span class="text-primary">Breakout #2:</span>  **New Direct Loan Setup and Procedures by Jared Hallows, Southern Utah University**
 * <span class="text-primary">Breakout #3:</span>  **Daily Uses of ARGOS in the Financial Aid Office by Terry Bell, Dixie State University**
-* <span class="text-primary">Breakout #4:</span>  **TBA**
+* <span class="text-primary">Breakout #4:</span>  **Dynamic Messaging by Denise Vandevanter, Utah Valley University**
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
 
 ### Payroll/HR
@@ -129,10 +128,10 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 #### <i class="fa fa-map-marker"></i> TBA
 
-* <span class="text-primary">Breakout #1:</span>  **TBA**
-  <span class="text-muted">**Description:** TBA.</span>
+* <span class="text-primary">Breakout #1:</span>  **To Charge or not to SURCHARGE? by Melanie Bowen, Utah State University**
+  <span class="text-muted">**Description:** In the evaluation process of students who should be assessed the surcharge (equivalent to non-resident tuition) we have developed a plan that will alert students much earlier.  During this training session we will explain our process and how it can help students to meet their education goals without having to pay the surcharge.  We will discuss USU’s evaluation criteria, additional calculations used, student and advisor notifications, and the appeal process.</span>
 * <span class="text-primary">Vendor Session</span> **TBA**
-* <span class="text-primary">Breakout #2:</span>  **TBA**
+* <span class="text-primary">Breakout #2:</span>  **Automating Add Fees for All by Denise Vandervanter, Utah Valley University**
 * <span class="text-primary">Breakout #3:</span>  **TBA**
 * <span class="text-primary">Breakout #4:</span>  **TBA**
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
