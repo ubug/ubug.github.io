@@ -104,10 +104,10 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 * <span class="text-primary">Breakout #1:</span>  **Electronic Tuition Waiver Process by Anne Woods and Tikey Drossos, Salt Lake Community College**
 * <span class="text-primary">Vendor Session</span> **TBA**
-* <span class="text-primary">Breakout #2:</span>  **TBA**
+* <span class="text-primary">Breakout #2:</span>  **Analyzing Payroll/HR data in Excel using Pivot Tables by Elizabeth Turbyfill, Salt Lake Community College**
 * <span class="text-primary">Breakout #3:</span>  **FLAC - Faculty Load and Compensation by Greg Esplin, Dixie State University**
   <span class="text-muted">**Description:** Banner module implemented to pay adjunct faculty.</span>
-* <span class="text-primary">Breakout #4:</span>  **Affordable Care Act implementation**
+* <span class="text-primary">Breakout #4:</span>  **Affordable Care Act implementation by Dixie State University Payroll & HR offices**
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
 
 ### Reporting
@@ -145,9 +145,9 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <span class="text-primary">Vendor Session</span> **TBA**
 * <span class="text-primary">Breakout #2:</span>  **Load Testing XE Registration using Apache JMeter by Ryan Merrill, Utah State University**
   <span class="text-muted">**Description:** USU’s experience using JMeter to load test XE Registration in preparation for peak loads.  Lessons learned and insights gained.  Configurations allowing throughputs of 2000+ registrations processed per minute.</span>
-* <span class="text-primary">Breakout #3:</span>  **SSIDs and Banner by Carl Ellsworth, Utah State University**
+* <span class="text-primary">Breakout #3:</span>  **TBA**
+* <span class="text-primary">Breakout #4:</span>  **SSIDs and Banner by Carl Ellsworth, Utah State University**
   <span class="text-muted">**Description:** USU has developed a package to update SSIDs in batch directly on the Banner database. This package connects to the State of Utah SSID web service directly from the Oracle Database.</span>
-* <span class="text-primary">Breakout #4:</span>  **TBA**
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
 
 ---
