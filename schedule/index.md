@@ -82,8 +82,8 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <span class="text-primary">Breakout #1:</span>  **Faster Bank Recs by Karl Kovac, Snow College**
   <span class="text-muted">**Description:** Automating your bank reconciliation.</span>
 * <span class="text-primary">Vendor Session</span> **TBA**
-* <span class="text-primary">Breakout #2:</span>  **TBA**
-* <span class="text-primary">Breakout #3:</span>  **TBA**
+* <span class="text-primary">Breakout #2:</span>  **Grant Module by Clarissa Crosby and group, Southern Utah University**
+* <span class="text-primary">Breakout #3:</span>  **Tips to Resolve an Out of Balance Condition in Banner Finance by Candi Pierce, Dixie State University**
 * <span class="text-primary">Breakout #4:</span>  **TBA**
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
 
@@ -115,9 +115,10 @@ title: <i class="fa fa-calendar"></i> Schedule
 #### <i class="fa fa-map-marker"></i> TBA
 
 * <span class="text-primary">Breakout #1:</span>  **Compiling Data by Josh Vieira and Andrea Brown, Dixie State University**
-* <span class="text-primary">Vendor Session</span> **TBA**
-* <span class="text-primary">Breakout #2:</span>  **IPEDS Outcomes Measures by Geoff Matthews and Robert Loveridge, Utah Valley University**
-<span class="text-muted">**Description:** Examining the new IPEDS outcomes measure and current national metrics of graduation rates including Highest Undergraduate Degree, the Overall Graduation rate, SAM, IPEDS new Outcomes Measure Graduation rate for full and part time first time and transfer degree seeking students.</span>
+* <span class="text-primary">Vendor Session</span> **Create a Dashboard from Scratch by Michael Capulong, Evisions**
+<span class="text-muted">**Description:**This session will cover creating a Dashboard in Argos with interactive Charts.  We will focus on the key concepts needed in order to create a dashboard that is drillable and contains multiple forms.</span>
+* <span class="text-primary">Breakout #2:</span>  **Graduation Rates: What do they tell us?  Are some better than others? by Geoff Matthews and Robert Loveridge, Utah Valley University**
+<span class="text-muted">**Description:** This session will examine the new IPEDS outcomes measure and other current national metrics of graduation rates including Highest Undergraduate Degree (i.e., Bachelors or Associate), the Overall Graduation rate, SAM, IPEDS new Outcomes Measure Graduation rate for full and part time first time and transfer degree seeking students. We also hope to have time for audience input on this topic.</span>
 * <span class="text-primary">Breakout #3:</span>  **Data Cookbook for USHE Institutions by Rachel Ruiz, Weber State University**
  <span class="text-muted">**Description:** This session will cover how to utilize the USHE data book in the Data Cookbook as well as how to implement it for campus wide use. We will share the best-practices, style guide and training developed thus far for implementing the Data Cookbook at Weber State University.</span>
 * <span class="text-primary">Breakout #4:</span>  **Department Courses Serving Non-Departmental Majors by Tim Stanley, Utah Valley University**
