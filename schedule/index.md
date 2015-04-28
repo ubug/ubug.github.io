@@ -53,10 +53,10 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 #### <i class="fa fa-map-marker"></i> TBA
 
-* <span class="text-primary">Breakout #1:</span>  **TBA**
+* <span class="text-primary">Breakout #1:</span>  **Banner and CRM’s by David Roos, Dixie State University**
   <span class="text-muted">**Description:** TBA.</span>
 * <span class="text-primary">Vendor Session</span> **TBA**
-* <span class="text-primary">Breakout #2:</span>  **TBA**
+* <span class="text-primary">Breakout #2:</span>  **UVU Online Residency Application and Banner**
 * <span class="text-primary">Breakout #3:</span>  **TBA**
 * <span class="text-primary">Breakout #4:</span>  **TBA**
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
@@ -133,7 +133,8 @@ title: <i class="fa fa-calendar"></i> Schedule
   <span class="text-muted">**Description:** In the evaluation process of students who should be assessed the surcharge (equivalent to non-resident tuition) we have developed a plan that will alert students much earlier.  During this training session we will explain our process and how it can help students to meet their education goals without having to pay the surcharge.  We will discuss USU’s evaluation criteria, additional calculations used, student and advisor notifications, and the appeal process.</span>
 * <span class="text-primary">Vendor Session</span> **TBA**
 * <span class="text-primary">Breakout #2:</span>  **Automating Add Fees for All by Denise Vandervanter, Utah Valley University**
-* <span class="text-primary">Breakout #3:</span>  **TBA**
+* <span class="text-primary">Breakout #3:</span>  **Banner XE Registration (Now Available Without a Prescription) by Adam Gleed, Utah State University**
+  <span class="text-muted">**Description:** Tired of your registration system looking like it’s stuck in the 1980s? Are your students embarrassed by your self-service offerings? You should try Banner XE Registration. USU did and we’re excited to talk about our configuration and human testing, marketing to students, and tips and tricks discovered along the way.</span>
 * <span class="text-primary">Breakout #4:</span>  **TBA**
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
 
