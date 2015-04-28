@@ -7,7 +7,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ## Thursday, May 14, 2015
 
-* <i class="fa fa-clock-o"></i> 8:30 - 9:00 PreConfrence Registration <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>
+* <i class="fa fa-clock-o"></i> 8:30 - 9:00 PreConference Registration <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>
 * <i class="fa fa-clock-o"></i> 9:00 - 12:00 Argos Training <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>
 * <i class="fa fa-clock-o"></i> 12:30 - 1:00 Registration meet and greet <span class="text-primary"><i class="fa fa-map-marker"></i>Vendor Area </span>
 * <i class="fa fa-clock-o"></i> 1:00 - 2:15 Opening Session - ** ** by (Ellucian)  <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>  
@@ -45,7 +45,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <span class="text-primary">Breakout #1:</span>  **Heuristic Management by Michael Richter, Weber State University**
 * <span class="text-primary">Vendor Session</span> **TBA**
 * <span class="text-primary">Breakout #2:</span>  **Save the Perkins Loan by Annette Murray, Southern Utah University**
-* <span class="text-primary">Breakout #3:</span>  **Cash Handling Training by Laura Crabtree, Salt Lake Comunitee College**
+* <span class="text-primary">Breakout #3:</span>  **Cash Handling Training by Laura Crabtree, Salt Lake Community College**
 * <span class="text-primary">Breakout #4:</span>  **New billing Forms by Wes Brinkerhoff Southern Utah University**
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
 
@@ -82,9 +82,9 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <span class="text-primary">Breakout #1:</span>  **Faster Bank Recs by Karl Kovac, Snow College**
   <span class="text-muted">**Description:** Automating your bank reconciliation.</span>
 * <span class="text-primary">Vendor Session</span> **TBA**
-* <span class="text-primary">Breakout #2:</span>  **Grant Module by Clarissa Crosby and group, Southern Utah University**
-* <span class="text-primary">Breakout #3:</span>  **Tips to Resolve an Out of Balance Condition in Banner Finance by Candi Pierce, Dixie State University**
-* <span class="text-primary">Breakout #4:</span>  **TBA**
+* <span class="text-primary">Breakout #2:</span>  **Tips to Resolve an Out of Balance Condition in Banner Finance by Candi Pierce, Dixie State University**
+* <span class="text-primary">Breakout #3:</span>  **Grant Module by Clarissa Crosby and group, Southern Utah University**
+* <span class="text-primary">Breakout #4:</span>  **Finance Banner Tips & Tricks by Scott Jensen, Dixie State University**
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
 
 ### Financial Aid
