@@ -19,8 +19,5 @@ title: Sponsors
 [strata]: http://www.sigcorp.com/
 [verba]: http://www.verbasoftware.com/
 
-<a class="btn btn-primary btn-lg" href="https://commerce.cashnet.com/WEBUBUG">
-  Sponsor Registration
-</a>
 
 
