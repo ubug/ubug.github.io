@@ -9,10 +9,10 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 * <i class="fa fa-clock-o"></i> 8:30 - 9:00 PreConference Registration <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>
 * <i class="fa fa-clock-o"></i> 9:00 - 12:00 Argos Training <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>
-* <i class="fa fa-clock-o"></i> 12:30 - 1:00 Registration meet and greet <span class="text-primary"><i class="fa fa-map-marker"></i>Vendor Area </span>
+* <i class="fa fa-clock-o"></i> 12:30 - 1:00 Registration meet and greet <span class="text-primary"><i class="fa fa-map-marker"></i>Sponsor Area </span>
 * <i class="fa fa-clock-o"></i> 1:00 - 2:15 Opening Session - ** ** by (Ellucian)  <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>  
 * <i class="fa fa-clock-o"></i> 2:15 - 3:00 Breakout #1
-* <i class="fa fa-clock-o"></i> 3:00 - 3:45 Vendor Session
+* <i class="fa fa-clock-o"></i> 3:00 - 3:45 Sponsor Session
 * <i class="fa fa-clock-o"></i> 3:45 - 4:30 Break Vendor exhibits <span class="text-primary"><i class="fa fa-map-marker"></i> Vendor Area</span>
 * <i class="fa fa-clock-o"></i> 4:30 - 5:15 Breakout #2
 * <i class="fa fa-clock-o"></i> 5:30 - 7:00 Dinner / Luau <span class="text-primary"><i class="fa fa-map-marker"></i> [Gardner center ballroom](https://goo.gl/maps/i3dPB)</span>
@@ -38,12 +38,22 @@ title: <i class="fa fa-calendar"></i> Schedule
   <span class="text-muted">**Description:** This advanced Argos technical session will discuss the usage of charts (drilling down) and OLAP cubes (custom measures, grouping dimensions, and formatting output).</span>
 
 
+### Sponsor Sessions
+
+* <span class="text-primary">Ellucian:</span> **TBA**
+* <span class="text-primary">Evisions:</span> **Create a Dashboard from Scratch by Michael Capulong, Evisions**
+  <span class="text-muted">**Description:**This session will cover creating a Dashboard in Argos with interactive Charts.  We will focus on the key concepts needed in order to create a dashboard that is drillable and contains multiple forms.</span>
+* <span class="text-primary">TouchNet + Heartland:</span> **Ellucian Payment Center by TouchNet® Now with RECON 1 by Cylinda Duran**
+  <span class="text-muted">**Description:**Ellucian Payment Center by TouchNet is an enterprise payment platform that drives operational efficiencies and is PCI compliant.  This comprehensive offering with payment processing now comes with a robust reconciliation and reconnaissance tool called RECON 1. Streamline daily operations and gain visibility of financial transactions to aid in business analysis through Payment Center with RECON 1.</span>
+* <span class="text-primary">VERBA:</span> **TBA**
+
+
 ### Accounts Receivable
 
 #### <i class="fa fa-map-marker"></i> TBA
 
 * <span class="text-primary">Breakout #1:</span>  **Heuristic Management by Michael Richter, Weber State University**
-* <span class="text-primary">Vendor Session</span> **TBA**
+* <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #2:</span>  **Save the Perkins Loan by Annette Murray, Southern Utah University**
 * <span class="text-primary">Breakout #3:</span>  **Cash Handling Training by Laura Crabtree, Salt Lake Community College**
 * <span class="text-primary">Breakout #4:</span>  **New billing Forms by Wes Brinkerhoff Southern Utah University**
@@ -55,7 +65,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 * <span class="text-primary">Breakout #1:</span>  **Banner and CRM’s by David Roos, Dixie State University**
   <span class="text-muted">**Description:** TBA.</span>
-* <span class="text-primary">Vendor Session</span> **TBA**
+* <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #2:</span>  **UVU Online Residency Application and Banner**
 * <span class="text-primary">Breakout #3:</span>  **TBA**
 * <span class="text-primary">Breakout #4:</span>  **TBA**
@@ -65,12 +75,15 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 #### <i class="fa fa-map-marker"></i> TBA
 
-* <span class="text-primary">Breakout #1:</span>  **TBA**
-  <span class="text-muted">**Description:** TBA.</span>
-* <span class="text-primary">Vendor Session</span> **TBA**
-* <span class="text-primary">Breakout #2:</span>  **TBA**
-* <span class="text-primary">Breakout #3:</span>  **TBA**
-* <span class="text-primary">Breakout #4:</span>  **TBA**
+* <span class="text-primary">Breakout #1:</span>  **Gift Processing QuickFlows and Best Practices / Favorite Banner INB Forms by Carol Ruden, Weber State University**
+  <span class="text-muted">**Description:** Presentation will cover WSU's Gift Processing and Receiving Quickflows and the forms included. The presentation will also cover the INB forms most often used by the Development Officers at WSU.</span>
+* <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
+* <span class="text-primary">Breakout #2:</span>  **New Designations including connection to Financial Aid and Scholarships/ Activities and Special Purpose codes by Carol Ruden, Weber State University**
+  <span class="text-muted">**Description:** The presentation will cover WSU's New Designation Quickflow and will include our relationship with Financial Aid and Scholarship Office. The presentation will also cover WSU's use of Activities and Special Purpose Codes.</span>
+* <span class="text-primary">Breakout #3:</span>  **Simple Prospect Management and Simple Event Management by Carol Ruden, Weber State University**
+  <span class="text-muted">**Description:** The presentation will cover WSU's set up of Prospect Management codes and how the Development Office uses banner. The presentation will also cover Event Management in banner.</span>
+* <span class="text-primary">Breakout #4:</span>  **A + B = S: Argos + Banner = Stewardship by Carol Ruden & Juliet Jones, Weber State University**
+ <span class="text-muted">**Description:** How to leverage Argos Reports and Banner screens to make donor-friendly Stewardship Reports.</span>
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
 
 <p class="page-break"></p>
@@ -81,7 +94,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 * <span class="text-primary">Breakout #1:</span>  **Faster Bank Recs by Karl Kovac, Snow College**
   <span class="text-muted">**Description:** Automating your bank reconciliation.</span>
-* <span class="text-primary">Vendor Session</span> **TBA**
+* <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #2:</span>  **Tips to Resolve an Out of Balance Condition in Banner Finance by Candi Pierce, Dixie State University**
 * <span class="text-primary">Breakout #3:</span>  **Grant Module by Clarissa Crosby and group, Southern Utah University**
 * <span class="text-primary">Breakout #4:</span>  **Finance Banner Tips & Tricks by Scott Jensen, Dixie State University**
@@ -92,7 +105,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 #### <i class="fa fa-map-marker"></i> TBA
 
 * <span class="text-primary">Breakout #1:</span>  **Gainful Employment Workflow and Requirements by Tamara Allen and Sharron Robinette, Utah State University**
-* <span class="text-primary">Vendor Session</span> **TBA**
+* <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #2:</span>  **New Direct Loan Setup and Procedures by Jared Hallows, Southern Utah University**
 * <span class="text-primary">Breakout #3:</span>  **Daily Uses of ARGOS in the Financial Aid Office by Terry Bell, Dixie State University**
 * <span class="text-primary">Breakout #4:</span>  **Dynamic Messaging by Denise Vandevanter, Utah Valley University**
@@ -103,7 +116,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 #### <i class="fa fa-map-marker"></i> TBA
 
 * <span class="text-primary">Breakout #1:</span>  **Electronic Tuition Waiver Process by Anne Woods and Tikey Drossos, Salt Lake Community College**
-* <span class="text-primary">Vendor Session</span> **TBA**
+* <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #2:</span>  **Analyzing Payroll/HR data in Excel using Pivot Tables by Elizabeth Turbyfill, Salt Lake Community College**
 * <span class="text-primary">Breakout #3:</span>  **FLAC - Faculty Load and Compensation by Greg Esplin, Dixie State University**
   <span class="text-muted">**Description:** Banner module implemented to pay adjunct faculty.</span>
@@ -115,8 +128,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 #### <i class="fa fa-map-marker"></i> TBA
 
 * <span class="text-primary">Breakout #1:</span>  **Compiling Data by Josh Vieira and Andrea Brown, Dixie State University**
-* <span class="text-primary">Vendor Session</span> **Create a Dashboard from Scratch by Michael Capulong, Evisions**
-<span class="text-muted">**Description:**This session will cover creating a Dashboard in Argos with interactive Charts.  We will focus on the key concepts needed in order to create a dashboard that is drillable and contains multiple forms.</span>
+* <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #2:</span>  **Graduation Rates: What do they tell us?  Are some better than others? by Geoff Matthews and Robert Loveridge, Utah Valley University**
 <span class="text-muted">**Description:** This session will examine the new IPEDS outcomes measure and other current national metrics of graduation rates including Highest Undergraduate Degree (i.e., Bachelors or Associate), the Overall Graduation rate, SAM, IPEDS new Outcomes Measure Graduation rate for full and part time first time and transfer degree seeking students. We also hope to have time for audience input on this topic.</span>
 * <span class="text-primary">Breakout #3:</span>  **Data Cookbook for USHE Institutions by Rachel Ruiz, Weber State University**
@@ -131,7 +143,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 * <span class="text-primary">Breakout #1:</span>  **To Charge or not to SURCHARGE? by Melanie Bowen, Utah State University**
   <span class="text-muted">**Description:** In the evaluation process of students who should be assessed the surcharge (equivalent to non-resident tuition) we have developed a plan that will alert students much earlier.  During this training session we will explain our process and how it can help students to meet their education goals without having to pay the surcharge.  We will discuss USU’s evaluation criteria, additional calculations used, student and advisor notifications, and the appeal process.</span>
-* <span class="text-primary">Vendor Session</span> **TBA**
+* <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #2:</span>  **Everyone Can Add - Automating Add Fees for All by Denise Vandervanter, Utah Valley University**
   <span class="text-muted">**Description:** SFARGFE rules for add fees work for students who begin registration on or after date set up in SFARGFE. UVU charges add fees for most classes added by new registrations or students who are adding classes to previous registrations. See how UVU threw out the Add Cards and automated the add fee process for all.</span>
 * <span class="text-primary">Breakout #3:</span>  **Banner XE Registration (Now Available Without a Prescription) by Adam Gleed, Utah State University**
@@ -145,7 +157,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 * <span class="text-primary">Breakout #1:</span>  **Banner XE Registration LIVE and in Production by Carl Ellsworth, Utah State University**
   <span class="text-muted">**Description:** USU implemented several Banner XE modules including Registration which was live for their registration spike for summer and fall semester. Come hear the good, the bad, and the awesome concerning the experience.</span>
-* <span class="text-primary">Vendor Session</span> **TBA**
+* <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #2:</span>  **Load Testing XE Registration using Apache JMeter by Ryan Merrill, Utah State University**
   <span class="text-muted">**Description:** USU’s experience using JMeter to load test XE Registration in preparation for peak loads.  Lessons learned and insights gained.  Configurations allowing throughputs of 2000+ registrations processed per minute.</span>
 * <span class="text-primary">Breakout #3:</span>  **TBA**
