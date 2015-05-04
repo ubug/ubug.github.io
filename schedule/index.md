@@ -9,7 +9,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 * <i class="fa fa-clock-o"></i> 8:30 - 9:00 PreConference Registration <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>
 * <i class="fa fa-clock-o"></i> 9:00 - 12:00 Argos Training <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>
-* <i class="fa fa-clock-o"></i> 12:30 - 1:00 Registration meet and greet <span class="text-primary"><i class="fa fa-map-marker"></i>Sponsor Area </span>
+* <i class="fa fa-clock-o"></i> 12:30 - 1:00 Registration meet and greet <span class="text-primary"><i class="fa fa-map-marker"></i>Vendor Area </span>
 * <i class="fa fa-clock-o"></i> 1:00 - 2:15 Opening Session - ** ** by (Ellucian)  <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>  
 * <i class="fa fa-clock-o"></i> 2:15 - 3:00 Breakout #1
 * <i class="fa fa-clock-o"></i> 3:00 - 3:45 Sponsor Session
