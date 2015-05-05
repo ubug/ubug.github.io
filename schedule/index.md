@@ -10,7 +10,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <i class="fa fa-clock-o"></i> 8:30 - 9:00 PreConference Registration <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>
 * <i class="fa fa-clock-o"></i> 9:00 - 12:00 Argos Training <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>
 * <i class="fa fa-clock-o"></i> 12:30 - 1:00 Registration meet and greet <span class="text-primary"><i class="fa fa-map-marker"></i>Vendor Area </span>
-* <i class="fa fa-clock-o"></i> 1:00 - 2:15 Opening Session - ** ** by (Ellucian)  <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>  
+* <i class="fa fa-clock-o"></i> 1:00 - 2:15 Opening Session - **Ellucian Technology Strategy** by John Kopcke, Senior Vice President and Chief Technology Officer (Ellucian)  <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>  
 * <i class="fa fa-clock-o"></i> 2:15 - 3:00 Breakout #1
 * <i class="fa fa-clock-o"></i> 3:00 - 3:45 Sponsor Session
 * <i class="fa fa-clock-o"></i> 3:45 - 4:30 Break Vendor exhibits <span class="text-primary"><i class="fa fa-map-marker"></i> Vendor Area</span>
@@ -40,7 +40,8 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ### Sponsor Sessions
 
-* <span class="text-primary">Ellucian:</span> **TBA**
+* <span class="text-primary">Ellucian:</span> **Banner Architecture and Extensibility Explained for All Audiences by Ryan Lufkin**
+  <span class="text-muted">**Description:**This Session will be focused on providing a high-level overview of the Banner XE architecture for non-technical and management audience.  The session will cover Banner Forms transition, hardware sizing, software requirements, deployment strategies, extensibility/code mods, personnel skills requirements, etc.</span>
 * <span class="text-primary">Evisions:</span> **Create a Dashboard from Scratch by Michael Capulong, Evisions**
   <span class="text-muted">**Description:**This session will cover creating a Dashboard in Argos with interactive Charts.  We will focus on the key concepts needed in order to create a dashboard that is drillable and contains multiple forms.</span>
 * <span class="text-primary">TouchNet + Heartland:</span> **Ellucian Payment Center by TouchNet® Now with RECON 1 by Cylinda Duran**
@@ -146,9 +147,10 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #2:</span>  **Everyone Can Add - Automating Add Fees for All by Denise Vandervanter, Utah Valley University**
   <span class="text-muted">**Description:** SFARGFE rules for add fees work for students who begin registration on or after date set up in SFARGFE. UVU charges add fees for most classes added by new registrations or students who are adding classes to previous registrations. See how UVU threw out the Add Cards and automated the add fee process for all.</span>
-* <span class="text-primary">Breakout #3:</span>  **Banner XE Registration (Now Available Without a Prescription) by Adam Gleed, Utah State University**
+* <span class="text-primary">Breakout #3:</span>  **Localizing and Building Templates for Degree Works SEP: "it's hard to PLANS for" By Randy Hunt and Ellie Jones, Dixie State University**
+* <span class="text-primary">Breakout #4:</span>  **Banner XE Registration (Now Available Without a Prescription) by Adam Gleed, Utah State University**
+  <span class="text-muted">**Description:** (Combined Funky Tech Session) Randy will discuss how using Git to localize the Tomcat-based Student Educational Planner (SEP) can make the process relatively painless. All it takes is a couple of configuration changes, and lots of CSS. (ZK framework anybody?) Ellie will report on our recent/ongoing building-of-PLANS-templates, interesting discoveries, and anticipation of 4.1.4 PLANS promises.</span>
   <span class="text-muted">**Description:** Tired of your registration system looking like it’s stuck in the 1980s? Are your students embarrassed by your self-service offerings? You should try Banner XE Registration. USU did and we’re excited to talk about our configuration and human testing, marketing to students, and tips and tricks discovered along the way.</span>
-* <span class="text-primary">Breakout #4:</span>  **TBA**
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
 
 ### Technical
@@ -160,7 +162,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #2:</span>  **Load Testing XE Registration using Apache JMeter by Ryan Merrill, Utah State University**
   <span class="text-muted">**Description:** USU’s experience using JMeter to load test XE Registration in preparation for peak loads.  Lessons learned and insights gained.  Configurations allowing throughputs of 2000+ registrations processed per minute.</span>
-* <span class="text-primary">Breakout #3:</span>  **TBA**
+* <span class="text-primary">Breakout #3:</span>  **Customizing Banner XE using the Maven WAR overlay method by Parker Grimes, Southern Utah University**
 * <span class="text-primary">Breakout #4:</span>  **SSIDs and Banner by Carl Ellsworth, Utah State University**
   <span class="text-muted">**Description:** USU has developed a package to update SSIDs in batch directly on the Banner database. This package connects to the State of Utah SSID web service directly from the Oracle Database.</span>
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
