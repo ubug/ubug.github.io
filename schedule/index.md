@@ -54,6 +54,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 #### <i class="fa fa-map-marker"></i> TBA
 
 * <span class="text-primary">Breakout #1:</span>  **Heuristic Management by Michael Richter, Weber State University**
+  <span class="text-muted">**Description:** An overview on building a "toolbox" of heuristic methods to help a Bursar/Supervisor respond to challenges or make decisions quickly and efficiently.  It focuses on taking elements we already know and applying them to issues that might help improve day-to-day operations.
 * <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #2:</span>  **Save the Perkins Loan by Annette Murray, Southern Utah University**
 * <span class="text-primary">Breakout #3:</span>  **Cash Handling Training by Laura Crabtree, Salt Lake Community College**
@@ -65,7 +66,6 @@ title: <i class="fa fa-calendar"></i> Schedule
 #### <i class="fa fa-map-marker"></i> TBA
 
 * <span class="text-primary">Breakout #1:</span>  **Banner and CRM’s by David Roos, Dixie State University**
-  <span class="text-muted">**Description:** TBA.</span>
 * <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #2:</span>  **UVU Online Residency Application and Banner**
 * <span class="text-primary">Breakout #3:</span>  **TBA**
