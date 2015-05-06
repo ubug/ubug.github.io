@@ -11,8 +11,8 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <i class="fa fa-clock-o"></i> 9:00 - 12:00 Argos Training <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>
 * <i class="fa fa-clock-o"></i> 12:30 - 1:00 Registration meet and greet <span class="text-primary"><i class="fa fa-map-marker"></i>Vendor Area </span>
 * <i class="fa fa-clock-o"></i> 1:00 - 2:15 Opening Session - **Ellucian Technology Strategy** by John Kopcke, Senior Vice President and Chief Technology Officer (Ellucian)  <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>  
-* <i class="fa fa-clock-o"></i> 2:15 - 3:00 Breakout #1
-* <i class="fa fa-clock-o"></i> 3:00 - 3:45 Sponsor Session
+* <i class="fa fa-clock-o"></i> 2:15 - 3:00 Sponsor Session
+* <i class="fa fa-clock-o"></i> 3:00 - 3:45 Breakout #1
 * <i class="fa fa-clock-o"></i> 3:45 - 4:30 Break Vendor exhibits <span class="text-primary"><i class="fa fa-map-marker"></i> Vendor Area</span>
 * <i class="fa fa-clock-o"></i> 4:30 - 5:15 Breakout #2
 * <i class="fa fa-clock-o"></i> 5:30 - 7:00 Dinner / Luau <span class="text-primary"><i class="fa fa-map-marker"></i> [Gardner center ballroom](https://goo.gl/maps/i3dPB)</span>
@@ -45,7 +45,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <span class="text-primary">Evisions:</span> **Create a Dashboard from Scratch by Michael Capulong, Evisions**
   <span class="text-muted">**Description:**This session will cover creating a Dashboard in Argos with interactive Charts.  We will focus on the key concepts needed in order to create a dashboard that is drillable and contains multiple forms.</span>
 * <span class="text-primary">TouchNet + Heartland:</span> **Consolidating Campus Commerce - “The Next Generation” by Cylinda Duran**
-  <span class="text-muted">**Description:**</span>
+  <span class="text-muted">**Description:** For decades TouchNet has been helping schools unify campus commerce by offering robust software applications for in-person and on-line payments as well as creating partner integration with various vendor applications used across campus.  Our commitment to providing a secure U.Commerce platform continues.  However, in 2014 TouchNet + Heartland Transaction Services created “the next generation” in unified campus commerce called RECON 1.  RECON 1 allows visibility of all gross payments, even those outside of TouchNet applications and partner applications, visibility into the fees associated to process each transaction, plus automated posting of processing fees to correct GL accounts with real-time integration to campus ERP systems.  </span>
 * <span class="text-primary">VERBA:</span> **TBA**
 
 
