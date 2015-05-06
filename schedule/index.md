@@ -10,7 +10,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <i class="fa fa-clock-o"></i> 8:30 - 9:00 PreConference Registration <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>
 * <i class="fa fa-clock-o"></i> 9:00 - 12:00 Argos Training <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>
 * <i class="fa fa-clock-o"></i> 12:30 - 1:00 Registration meet and greet <span class="text-primary"><i class="fa fa-map-marker"></i>Vendor Area </span>
-* <i class="fa fa-clock-o"></i> 1:00 - 2:15 Opening Session - **Ellucian Technology Strategy** by John Kopcke, Senior Vice President and Chief Technology Officer (Ellucian)  <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>  
+* <i class="fa fa-clock-o"></i> 1:00 - 2:15 Opening Session - **Ellucian Technology Strategy** by John Kopcke, Senior Vice President and Chief Technology Officer (Ellucian)  <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>
 * <i class="fa fa-clock-o"></i> 2:15 - 3:00 Sponsor Session
 * <i class="fa fa-clock-o"></i> 3:00 - 3:45 Breakout #1
 * <i class="fa fa-clock-o"></i> 3:45 - 4:30 Break Vendor exhibits <span class="text-primary"><i class="fa fa-map-marker"></i> Vendor Area</span>
@@ -21,9 +21,9 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 * <i class="fa fa-clock-o"></i> 08:30 - 09:15 Breakout #3
 * <i class="fa fa-clock-o"></i> 09:15 - 10:00 Breakout #4
-* <i class="fa fa-clock-o"></i> 10:15 - 10:45 Break
-* <i class="fa fa-clock-o"></i> 10:45 - 11:30 Breakout #5 Birds of a Feather
-* <i class="fa fa-clock-o"></i> 11:45 - 12:45 Closing Session / Gifts / Door Prizes <span class="text-primary"><i class="fa fa-map-marker"></i> Zions Room</span>
+* <i class="fa fa-clock-o"></i> 10:00 - 10:30 Break Vendor exhibits <span class="text-primary"><i class="fa fa-map-marker"></i> Vendor Area</span>
+* <i class="fa fa-clock-o"></i> 10:30 - 11:15 Breakout #5 Birds of a Feather
+* <i class="fa fa-clock-o"></i> 11:15 - 12:15 Closing Session / Gifts / Door Prizes <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room</span>
 
 <p class="page-break"></p>
 
@@ -40,7 +40,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ### Sponsor Sessions
 
-* <span class="text-primary">Ellucian:</span> **Banner Architecture and Extensibility Explained for All Audiences by Ryan Lufkin**
+* <span class="text-primary">Ellucian:</span> **Banner Architecture and Extensibility Explained for All Audiences by Ryan Lufkin**<i class="fa fa-map-marker"></i>Zions Room
   <span class="text-muted">**Description:**This Session will be focused on providing a high-level overview of the Banner XE architecture for non-technical and management audience.  The session will cover Banner Forms transition, hardware sizing, software requirements, deployment strategies, extensibility/code mods, personnel skills requirements, etc.</span>
 * <span class="text-primary">Evisions:</span> **Create a Dashboard from Scratch by Michael Capulong, Evisions**
   <span class="text-muted">**Description:**This session will cover creating a Dashboard in Argos with interactive Charts.  We will focus on the key concepts needed in order to create a dashboard that is drillable and contains multiple forms.</span>
