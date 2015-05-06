@@ -44,8 +44,8 @@ title: <i class="fa fa-calendar"></i> Schedule
   <span class="text-muted">**Description:**This Session will be focused on providing a high-level overview of the Banner XE architecture for non-technical and management audience.  The session will cover Banner Forms transition, hardware sizing, software requirements, deployment strategies, extensibility/code mods, personnel skills requirements, etc.</span>
 * <span class="text-primary">Evisions:</span> **Create a Dashboard from Scratch by Michael Capulong, Evisions**
   <span class="text-muted">**Description:**This session will cover creating a Dashboard in Argos with interactive Charts.  We will focus on the key concepts needed in order to create a dashboard that is drillable and contains multiple forms.</span>
-* <span class="text-primary">TouchNet + Heartland:</span> **Ellucian Payment Center by TouchNet® Now with RECON 1 by Cylinda Duran**
-  <span class="text-muted">**Description:**Ellucian Payment Center by TouchNet is an enterprise payment platform that drives operational efficiencies and is PCI compliant.  This comprehensive offering with payment processing now comes with a robust reconciliation and reconnaissance tool called RECON 1. Streamline daily operations and gain visibility of financial transactions to aid in business analysis through Payment Center with RECON 1.</span>
+* <span class="text-primary">TouchNet + Heartland:</span> **Consolidating Campus Commerce - “The Next Generation” by Cylinda Duran**
+  <span class="text-muted">**Description:**</span>
 * <span class="text-primary">VERBA:</span> **TBA**
 
 
@@ -54,9 +54,10 @@ title: <i class="fa fa-calendar"></i> Schedule
 #### <i class="fa fa-map-marker"></i> TBA
 
 * <span class="text-primary">Breakout #1:</span>  **Heuristic Management by Michael Richter, Weber State University**
-  <span class="text-muted">**Description:** An overview on building a "toolbox" of heuristic methods to help a Bursar/Supervisor respond to challenges or make decisions quickly and efficiently.  It focuses on taking elements we already know and applying them to issues that might help improve day-to-day operations.
+  <span class="text-muted">**Description:** An overview on building a "toolbox" of heuristic methods to help a Bursar/Supervisor respond to challenges or make decisions quickly and efficiently.  It focuses on taking elements we already know and applying them to issues that might help improve day-to-day operations.</span>
 * <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
-* <span class="text-primary">Breakout #2:</span>  **Save the Perkins Loan by Annette Murray, Southern Utah University**
+* <span class="text-primary">Breakout #2:</span>  **The Federal Perkins Loan Program Critical-Unique-Proven by Annette Murray, Southern Utah University**
+  <span class="text-muted">**Description:** I will go over the awarding process for 2015-2016 year. and who can be grandfathered.  An overview of the Perkins Program it's success, terms, & the Future of the Perkins Loans.  I will give example letters for schools to reach out to our Congressman to save the Perkins Program.</span>
 * <span class="text-primary">Breakout #3:</span>  **Cash Handling Training by Laura Crabtree, Salt Lake Community College**
 * <span class="text-primary">Breakout #4:</span>  **New billing Forms by Wes Brinkerhoff Southern Utah University**
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
@@ -97,8 +98,11 @@ title: <i class="fa fa-calendar"></i> Schedule
   <span class="text-muted">**Description:** Automating your bank reconciliation.</span>
 * <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #2:</span>  **Tips to Resolve an Out of Balance Condition in Banner Finance by Candi Pierce, Dixie State University**
+  <span class="text-muted">**Description:** This session will explain the out of balance state, the various techniques that can be used to pinpoint the cause, and some best practice tips will be given to keep these occurrences from getting out of hand.</span>
 * <span class="text-primary">Breakout #3:</span>  **Grant Module by Clarissa Crosby and group, Southern Utah University**
+  <span class="text-muted">**Description:** Grant funding can help institutions meet priorities, learn more about the Banner grants module.</span>
 * <span class="text-primary">Breakout #4:</span>  **Finance Banner Tips & Tricks by Scott Jensen, Dixie State University**
+  <span class="text-muted">**Description:** Ever wonder if there is a faster way to do something in Banner?  Do you want to be more productive and efficient in Banner?  Banner has many shortcuts and tricks to getting things done faster those will taught in this session.</span>
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
 
 ### Financial Aid
@@ -108,8 +112,11 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <span class="text-primary">Breakout #1:</span>  **Gainful Employment Workflow and Requirements by Tamara Allen and Sharron Robinette, Utah State University**
 * <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #2:</span>  **New Direct Loan Setup and Procedures by Jared Hallows, Southern Utah University**
+  <span class="text-muted">**Description:** "Banner Financial Aid 8.22.1 contains many updates and improvements to the Direct Loan process. The updates include several new forms, processes and tables. This session will cover what is contained in the release, as well as setup and execution. We will also briefly discuss additional updates coming in Banner Financial Aid 8.23."
 * <span class="text-primary">Breakout #3:</span>  **Daily Uses of ARGOS in the Financial Aid Office by Terry Bell, Dixie State University**
+  <span class="text-muted">**Description:** ARGOS how it plays into our daily lives at Dixie State University financial aid office.  We will show examples of how we use it for award letters, verification notification, emails, SAP notification and exception reports. We will also give some suggestions and tips and tricks used to update Banner.</span>
 * <span class="text-primary">Breakout #4:</span>  **Dynamic Messaging by Denise Vandevanter, Utah Valley University**
+  <span class="text-muted">**Description:** Dynamic Messaging is a clean and efficient way to communicate information to students. It can be used for more than communicating awarding information. SQL statements allow the financial aid office to send messages to students sharing the same characteristics.  Bells and whistles are created with HTML code.</span>
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
 
 ### Payroll/HR
@@ -150,7 +157,6 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <span class="text-primary">Breakout #3:</span>  **Localizing and Building Templates for Degree Works SEP: "it's hard to PLANS for" By Randy Hunt and Ellie Jones, Dixie State University**
   <span class="text-muted">**Description:**Randy will discuss how using Git to localize the Tomcat-based Student Educational Planner (SEP) can make the process relatively painless. All it takes is a couple of configuration changes, and lots of CSS. (ZK framework anybody?) Ellie will report on our recent/ongoing building-of-PLANS-templates, interesting discoveries, and anticipation of 4.1.4 PLANS promises</span>
 * <span class="text-primary">Breakout #4:</span>  **Banner XE Registration (Now Available Without a Prescription) by Adam Gleed, Utah State University**
-  <span class="text-muted">**Description:** (Combined Funky Tech Session) Randy will discuss how using Git to localize the Tomcat-based Student Educational Planner (SEP) can make the process relatively painless. All it takes is a couple of configuration changes, and lots of CSS. (ZK framework anybody?) Ellie will report on our recent/ongoing building-of-PLANS-templates, interesting discoveries, and anticipation of 4.1.4 PLANS promises.</span>
   <span class="text-muted">**Description:** Tired of your registration system looking like it’s stuck in the 1980s? Are your students embarrassed by your self-service offerings? You should try Banner XE Registration. USU did and we’re excited to talk about our configuration and human testing, marketing to students, and tips and tricks discovered along the way.</span>
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
 
