@@ -40,7 +40,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ### Sponsor Sessions
 
-* <span class="text-primary">Ellucian:</span> **Banner Architecture and Extensibility Explained for All Audiences by Ryan Lufkin**<i class="fa fa-map-marker"></i>Zions Room
+* <span class="text-primary">Ellucian:</span> **Banner Architecture and Extensibility Explained for All Audiences by Ryan Lufkin** <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>
   <span class="text-muted">**Description:**This Session will be focused on providing a high-level overview of the Banner XE architecture for non-technical and management audience.  The session will cover Banner Forms transition, hardware sizing, software requirements, deployment strategies, extensibility/code mods, personnel skills requirements, etc.</span>
 * <span class="text-primary">Evisions:</span> **Create a Dashboard from Scratch by Michael Capulong, Evisions**
   <span class="text-muted">**Description:**This session will cover creating a Dashboard in Argos with interactive Charts.  We will focus on the key concepts needed in order to create a dashboard that is drillable and contains multiple forms.</span>
