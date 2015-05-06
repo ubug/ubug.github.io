@@ -7,10 +7,10 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ## Thursday, May 14, 2015
 
-* <i class="fa fa-clock-o"></i> 8:30 - 9:00 PreConference Registration <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>
+* <i class="fa fa-clock-o"></i> 8:30 - 9:00 PreConference Registration <span class="text-primary"><i class="fa fa-map-marker"></i> Zions Room </span>
 * <i class="fa fa-clock-o"></i> 9:00 - 12:00 Argos Training <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>
-* <i class="fa fa-clock-o"></i> 12:30 - 1:00 Registration meet and greet <span class="text-primary"><i class="fa fa-map-marker"></i>Vendor Area </span>
-* <i class="fa fa-clock-o"></i> 1:00 - 2:15 Opening Session - **Ellucian Technology Strategy** by John Kopcke, Senior Vice President and Chief Technology Officer (Ellucian)  <span class="text-primary"><i class="fa fa-map-marker"></i>Zions Room </span>
+* <i class="fa fa-clock-o"></i> 12:30 - 1:00 Registration meet and greet <span class="text-primary"><i class="fa fa-map-marker"></i> Vendor Area </span>
+* <i class="fa fa-clock-o"></i> 1:00 - 2:15 Opening Session - **Ellucian Technology Strategy** by John Kopcke, Senior Vice President and Chief Technology Officer (Ellucian)  <span class="text-primary"><i class="fa fa-map-marker"></i> Zions Room </span>
 * <i class="fa fa-clock-o"></i> 2:15 - 3:00 Sponsor Session
 * <i class="fa fa-clock-o"></i> 3:00 - 3:45 Breakout #1
 * <i class="fa fa-clock-o"></i> 3:45 - 4:30 Break Vendor exhibits <span class="text-primary"><i class="fa fa-map-marker"></i> Vendor Area</span>
@@ -42,16 +42,16 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 * <span class="text-primary">Ellucian:</span> **Banner Architecture and Extensibility Explained for All Audiences by Ryan Lufkin** <span class="text-primary"><i class="fa fa-map-marker"></i> Zions Room </span>
   <span class="text-muted">**Description:**This Session will be focused on providing a high-level overview of the Banner XE architecture for non-technical and management audience.  The session will cover Banner Forms transition, hardware sizing, software requirements, deployment strategies, extensibility/code mods, personnel skills requirements, etc.</span>
-* <span class="text-primary">Evisions:</span> **Create a Dashboard from Scratch by Michael Capulong, Evisions**<span class="text-primary"><i class="fa fa-map-marker"></i> 477 </span>
+* <span class="text-primary">Evisions:</span> **Create a Dashboard from Scratch by Michael Capulong, Evisions**<span class="text-primary"><i class="fa fa-map-marker"></i> Room 477 </span>
   <span class="text-muted">**Description:**This session will cover creating a Dashboard in Argos with interactive Charts.  We will focus on the key concepts needed in order to create a dashboard that is drillable and contains multiple forms.</span>
-* <span class="text-primary">TouchNet + Heartland:</span> **Consolidating Campus Commerce - “The Next Generation” by Cylinda Duran** <span class="text-primary"><i class="fa fa-map-marker"></i> 476 </span>
+* <span class="text-primary">TouchNet + Heartland:</span> **Consolidating Campus Commerce - “The Next Generation” by Cylinda Duran** <span class="text-primary"><i class="fa fa-map-marker"></i> Room 476 </span>
   <span class="text-muted">**Description:** For decades TouchNet has been helping schools unify campus commerce by offering robust software applications for in-person and on-line payments as well as creating partner integration with various vendor applications used across campus.  Our commitment to providing a secure U.Commerce platform continues.  However, in 2014 TouchNet + Heartland Transaction Services created “the next generation” in unified campus commerce called RECON 1.  RECON 1 allows visibility of all gross payments, even those outside of TouchNet applications and partner applications, visibility into the fees associated to process each transaction, plus automated posting of processing fees to correct GL accounts with real-time integration to campus ERP systems.  </span>
-* <span class="text-primary">VERBA:</span> **TBA** <span class="text-primary"><i class="fa fa-map-marker"></i> 471 </span>
+* <span class="text-primary">VERBA:</span> **TBA** <span class="text-primary"><i class="fa fa-map-marker"></i> Room 471 </span>
 
 
 ### Accounts Receivable
 
-#### <i class="fa fa-map-marker"></i> 469
+#### <i class="fa fa-map-marker"></i>Room 469
 
 * <span class="text-primary">Breakout #1:</span>  **Heuristic Management by Michael Richter, Weber State University**
   <span class="text-muted">**Description:** An overview on building a "toolbox" of heuristic methods to help a Bursar/Supervisor respond to challenges or make decisions quickly and efficiently.  It focuses on taking elements we already know and applying them to issues that might help improve day-to-day operations.</span>
@@ -64,7 +64,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ### Admissions
 
-#### <i class="fa fa-map-marker"></i> 535
+#### <i class="fa fa-map-marker"></i> Room 535
 
 * <span class="text-primary">Breakout #1:</span>  **Banner and CRM’s by David Roos, Dixie State University**
 * <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
@@ -75,7 +75,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ### Advancement
 
-#### <i class="fa fa-map-marker"></i> 470
+#### <i class="fa fa-map-marker"></i> Room 470
 
 * <span class="text-primary">Breakout #1:</span>  **Gift Processing QuickFlows and Best Practices / Favorite Banner INB Forms by Carol Ruden, Weber State University**
   <span class="text-muted">**Description:** Presentation will cover WSU's Gift Processing and Receiving Quickflows and the forms included. The presentation will also cover the INB forms most often used by the Development Officers at WSU.</span>
@@ -92,7 +92,7 @@ title: <i class="fa fa-calendar"></i> Schedule
  
 ### Finance
 
-#### <i class="fa fa-map-marker"></i> 477
+#### <i class="fa fa-map-marker"></i> Room 477
 
 * <span class="text-primary">Breakout #1:</span>  **Faster Bank Recs by Karl Kovac, Snow College**
   <span class="text-muted">**Description:** Automating your bank reconciliation.</span>
@@ -107,7 +107,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ### Financial Aid
 
-#### <i class="fa fa-map-marker"></i> 493
+#### <i class="fa fa-map-marker"></i> Room 493
 
 * <span class="text-primary">Breakout #1:</span>  **Gainful Employment Workflow and Requirements by Tamara Allen and Sharron Robinette, Utah State University**
 * <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
@@ -121,7 +121,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ### Payroll/HR
 
-#### <i class="fa fa-map-marker"></i> 471
+#### <i class="fa fa-map-marker"></i> Room 471
 
 * <span class="text-primary">Breakout #1:</span>  **Electronic Tuition Waiver Process by Anne Woods and Tikey Drossos, Salt Lake Community College**
 * <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
@@ -133,7 +133,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ### Reporting
 
-#### <i class="fa fa-map-marker"></i> 550
+#### <i class="fa fa-map-marker"></i> Room 550
 
 * <span class="text-primary">Breakout #1:</span>  **Compiling Data by Josh Vieira and Andrea Brown, Dixie State University**
 * <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
@@ -147,7 +147,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ### Registration
 
-#### <i class="fa fa-map-marker"></i> 430
+#### <i class="fa fa-map-marker"></i> Room 430
 
 * <span class="text-primary">Breakout #1:</span>  **To Charge or not to SURCHARGE? by Melanie Bowen, Utah State University**
   <span class="text-muted">**Description:** In the evaluation process of students who should be assessed the surcharge (equivalent to non-resident tuition) we have developed a plan that will alert students much earlier.  During this training session we will explain our process and how it can help students to meet their education goals without having to pay the surcharge.  We will discuss USU’s evaluation criteria, additional calculations used, student and advisor notifications, and the appeal process.</span>
@@ -162,7 +162,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ### Technical
 
-#### <i class="fa fa-map-marker"></i> 476
+#### <i class="fa fa-map-marker"></i> Room 476
 
 * <span class="text-primary">Breakout #1:</span>  **Banner XE Registration LIVE and in Production by Carl Ellsworth, Utah State University**
   <span class="text-muted">**Description:** USU implemented several Banner XE modules including Registration which was live for their registration spike for summer and fall semester. Come hear the good, the bad, and the awesome concerning the experience.</span>
