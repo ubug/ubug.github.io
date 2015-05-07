@@ -51,7 +51,7 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 ### Accounts Receivable
 
-#### <i class="fa fa-map-marker"></i>Room 469
+#### <i class="fa fa-map-marker"></i> Room 469
 
 
 * <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
