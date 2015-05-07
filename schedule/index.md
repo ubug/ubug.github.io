@@ -53,23 +53,27 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 #### <i class="fa fa-map-marker"></i>Room 469
 
+
+* <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #1:</span>  **Heuristic Management by Michael Richter, Weber State University**
   <span class="text-muted">**Description:** An overview on building a "toolbox" of heuristic methods to help a Bursar/Supervisor respond to challenges or make decisions quickly and efficiently.  It focuses on taking elements we already know and applying them to issues that might help improve day-to-day operations.</span>
-* <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #2:</span>  **The Federal Perkins Loan Program Critical-Unique-Proven by Annette Murray, Southern Utah University**
   <span class="text-muted">**Description:** I will go over the awarding process for 2015-2016 year. and who can be grandfathered.  An overview of the Perkins Program it's success, terms, & the Future of the Perkins Loans.  I will give example letters for schools to reach out to our Congressman to save the Perkins Program.</span>
 * <span class="text-primary">Breakout #3:</span>  **Cash Handling Training by Laura Crabtree, Salt Lake Community College**
 * <span class="text-primary">Breakout #4:</span>  **New billing Forms by Wes Brinkerhoff Southern Utah University**
+  <span class="text-muted">**Description:** AR Billing---TSRCBIL/TSRRBIL/TSRSBIL – Which Should You Use?</span>
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
 
 ### Admissions
 
 #### <i class="fa fa-map-marker"></i> Room 535
 
-* <span class="text-primary">Breakout #1:</span>  **Banner and CRM’s by David Roos, Dixie State University**
 * <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
+* <span class="text-primary">Breakout #1:</span>  **Banner and CRM’s by David Roos, Dixie State University**
+  <span class="text-muted">**Description:** This session will cover the basics of a CRM (Customer Relations Management) system and how DSU has  utilized a CRM to connect with prospective students.   The data flow between Banner and the CRM will also be covered.</span>
 * <span class="text-primary">Breakout #2:</span>  **UVU Online Residency Application and Banner**
-* <span class="text-primary">Breakout #3:</span>  **TBA**
+* <span class="text-primary">Breakout #3:</span>  **Creating Magic Through Quality Service by Joe Belnap, Utah Valley University**
+  <span class="text-muted">**Description:** No matter where you go, there’s always one thing that you always expect to find: quality service.  Should your customers expect anything less?  Elevate your own level of service by paying extremely close attention to detail and treating every customer as a VIP.  Quality service should be second nature for associates because they enjoy pleasing people – and you’ll enjoy seeing the benefits. Learn ways to instill your team with a sense of pride and passion that is certain to help exceed expectations.  Quality service is an integral aspect of any business, because we all have needs, wants, and emotions.  The ability of your employees to anticipate and react to these traits is a major step towards providing quality service.</span>
 * <span class="text-primary">Breakout #4:</span>  **TBA**
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
 
@@ -77,9 +81,9 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 #### <i class="fa fa-map-marker"></i> Room 470
 
+* <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #1:</span>  **Gift Processing QuickFlows and Best Practices / Favorite Banner INB Forms by Carol Ruden, Weber State University**
   <span class="text-muted">**Description:** Presentation will cover WSU's Gift Processing and Receiving Quickflows and the forms included. The presentation will also cover the INB forms most often used by the Development Officers at WSU.</span>
-* <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #2:</span>  **New Designations including connection to Financial Aid and Scholarships/ Activities and Special Purpose codes by Carol Ruden, Weber State University**
   <span class="text-muted">**Description:** The presentation will cover WSU's New Designation Quickflow and will include our relationship with Financial Aid and Scholarship Office. The presentation will also cover WSU's use of Activities and Special Purpose Codes.</span>
 * <span class="text-primary">Breakout #3:</span>  **Simple Prospect Management and Simple Event Management by Carol Ruden, Weber State University**
@@ -94,9 +98,9 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 #### <i class="fa fa-map-marker"></i> Room 477
 
+* <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #1:</span>  **Faster Bank Recs by Karl Kovac, Snow College**
   <span class="text-muted">**Description:** Automating your bank reconciliation.</span>
-* <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #2:</span>  **Tips to Resolve an Out of Balance Condition in Banner Finance by Candi Pierce, Dixie State University**
   <span class="text-muted">**Description:** This session will explain the out of balance state, the various techniques that can be used to pinpoint the cause, and some best practice tips will be given to keep these occurrences from getting out of hand.</span>
 * <span class="text-primary">Breakout #3:</span>  **Grant Module by Clarissa Crosby and group, Southern Utah University**
@@ -109,8 +113,9 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 #### <i class="fa fa-map-marker"></i> Room 493
 
-* <span class="text-primary">Breakout #1:</span>  **Gainful Employment Workflow and Requirements by Tamara Allen and Sharron Robinette, Utah State University**
 * <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
+* <span class="text-primary">Breakout #1:</span>  **Gainful Employment Workflow and Requirements by Tamara Allen and Sharon Robinette, Utah State University**
+  <span class="text-muted">**Description:** The session will focus on updates on Gainful Employment, NSLDS and Clearinghouse reporting. Time permitting, there will also be some discussion on other topics from the Ellucian Live Conference.</span>
 * <span class="text-primary">Breakout #2:</span>  **New Direct Loan Setup and Procedures by Jared Hallows, Southern Utah University**
   <span class="text-muted">**Description:** "Banner Financial Aid 8.22.1 contains many updates and improvements to the Direct Loan process. The updates include several new forms, processes and tables. This session will cover what is contained in the release, as well as setup and execution. We will also briefly discuss additional updates coming in Banner Financial Aid 8.23."
 * <span class="text-primary">Breakout #3:</span>  **Daily Uses of ARGOS in the Financial Aid Office by Terry Bell, Dixie State University**
@@ -123,20 +128,23 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 #### <i class="fa fa-map-marker"></i> Room 471
 
-* <span class="text-primary">Breakout #1:</span>  **Electronic Tuition Waiver Process by Anne Woods and Tikey Drossos, Salt Lake Community College**
 * <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
+* <span class="text-primary">Breakout #1:</span>  **Electronic Tuition Waiver Process by Anne Woods and Tikey Drossos, Salt Lake Community College**
+  <span class="text-muted">**Description:** In late October 2011, SLCC met with a team from UVU on that school’s on-line tuition waiver application.  Three years later, SLCC implemented the first phase of its tuition waiver program by rolling it out to full time staff and faculty.  This presentation discusses how SLCC adapted the UVU application for its purposes, some of the problems it encountered, the benefits of going paperless, and the next steps.</span>
 * <span class="text-primary">Breakout #2:</span>  **Analyzing Payroll/HR data in Excel using Pivot Tables by Elizabeth Turbyfill, Salt Lake Community College**
-* <span class="text-primary">Breakout #3:</span>  **FLAC - Faculty Load and Compensation by Greg Esplin, Dixie State University**
-  <span class="text-muted">**Description:** Banner module implemented to pay adjunct faculty.</span>
+  <span class="text-muted">**Description:** This session will explore how to use pivot tables in Excel to analyze the payroll/HR data once it has been extracted from Banner.</span>
+* <span class="text-primary">Breakout #3:</span>  **FLAC - Faculty Load and Compensation - Banner module implemented to pay adjunct faculty by Greg Esplin, Dixie State University**
+  <span class="text-muted">**Description:** FLAC was created to streamline processes for payment of adjunct faculty and Overload assignments for full-time faculty. Using the FLAC process, compensation for courses are paid in equal payments during pay periods throughout the term of the course, whether full-term or shorter-term courses.</span>
 * <span class="text-primary">Breakout #4:</span>  **Affordable Care Act implementation by Dixie State University Payroll & HR offices**
+  <span class="text-muted">**Description:** This session is a follow up to last year’s discussion about the Affordable Care Act and how your school is handling implementation/maintenance of the ACA.
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
 
 ### Reporting
 
 #### <i class="fa fa-map-marker"></i> Room 550
 
-* <span class="text-primary">Breakout #1:</span>  **Compiling Data by Josh Vieira and Andrea Brown, Dixie State University**
 * <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
+* <span class="text-primary">Breakout #1:</span>  **Compiling Data by Josh Vieira and Andrea Brown, Dixie State University**
 * <span class="text-primary">Breakout #2:</span>  **Graduation Rates: What do they tell us?  Are some better than others? by Geoff Matthews and Robert Loveridge, Utah Valley University**
 <span class="text-muted">**Description:** This session will examine the new IPEDS outcomes measure and other current national metrics of graduation rates including Highest Undergraduate Degree (i.e., Bachelors or Associate), the Overall Graduation rate, SAM, IPEDS new Outcomes Measure Graduation rate for full and part time first time and transfer degree seeking students. We also hope to have time for audience input on this topic.</span>
 * <span class="text-primary">Breakout #3:</span>  **Data Cookbook for USHE Institutions by Rachel Ruiz, Weber State University**
@@ -149,9 +157,9 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 #### <i class="fa fa-map-marker"></i> Room 430
 
+* <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #1:</span>  **To Charge or not to SURCHARGE? by Melanie Bowen, Utah State University**
   <span class="text-muted">**Description:** In the evaluation process of students who should be assessed the surcharge (equivalent to non-resident tuition) we have developed a plan that will alert students much earlier.  During this training session we will explain our process and how it can help students to meet their education goals without having to pay the surcharge.  We will discuss USU’s evaluation criteria, additional calculations used, student and advisor notifications, and the appeal process.</span>
-* <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #2:</span>  **Everyone Can Add - Automating Add Fees for All by Denise Vandervanter, Utah Valley University**
   <span class="text-muted">**Description:** SFARGFE rules for add fees work for students who begin registration on or after date set up in SFARGFE. UVU charges add fees for most classes added by new registrations or students who are adding classes to previous registrations. See how UVU threw out the Add Cards and automated the add fee process for all.</span>
 * <span class="text-primary">Breakout #3:</span>  **Localizing and Building Templates for Degree Works SEP: "it's hard to PLANS for" By Randy Hunt and Ellie Jones, Dixie State University**
@@ -164,9 +172,9 @@ title: <i class="fa fa-calendar"></i> Schedule
 
 #### <i class="fa fa-map-marker"></i> Room 476
 
+* <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #1:</span>  **Banner XE Registration LIVE and in Production by Carl Ellsworth, Utah State University**
   <span class="text-muted">**Description:** USU implemented several Banner XE modules including Registration which was live for their registration spike for summer and fall semester. Come hear the good, the bad, and the awesome concerning the experience.</span>
-* <span class="text-primary">Sponsor Session</span> **Please attend one of our sponsor sessions**
 * <span class="text-primary">Breakout #2:</span>  **Load Testing XE Registration using Apache JMeter by Ryan Merrill, Utah State University**
   <span class="text-muted">**Description:** USU’s experience using JMeter to load test XE Registration in preparation for peak loads.  Lessons learned and insights gained.  Configurations allowing throughputs of 2000+ registrations processed per minute.</span>
 * <span class="text-primary">Breakout #3:</span>  **Customizing Banner XE using the Maven WAR overlay method by Parker Grimes, Southern Utah University**
