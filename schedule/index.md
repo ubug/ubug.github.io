@@ -74,7 +74,10 @@ title: <i class="fa fa-calendar"></i> Schedule
 * <span class="text-primary">Breakout #2:</span>  **UVU Online Residency Application and Banner**
 * <span class="text-primary">Breakout #3:</span>  **Creating Magic Through Quality Service by Joe Belnap, Utah Valley University**
   <span class="text-muted">**Description:** No matter where you go, there’s always one thing that you always expect to find: quality service.  Should your customers expect anything less?  Elevate your own level of service by paying extremely close attention to detail and treating every customer as a VIP.  Quality service should be second nature for associates because they enjoy pleasing people – and you’ll enjoy seeing the benefits. Learn ways to instill your team with a sense of pride and passion that is certain to help exceed expectations.  Quality service is an integral aspect of any business, because we all have needs, wants, and emotions.  The ability of your employees to anticipate and react to these traits is a major step towards providing quality service.</span>
-* <span class="text-primary">Breakout #4:</span>  **TBA**
+* <span class="text-primary">Breakout #4:</span>  **Banner XE Registration (Now Available Without a Prescription) by Adam Gleed, Utah State University**
+  <span class="text-muted">**Description:** Tired of your registration system looking like it’s stuck in the 1980s? Are your students embarrassed by your self-service offerings? You should try Banner XE Registration. USU did and we’re excited to talk about our configuration and human testing, marketing to students, and tips and tricks discovered along the way.</span> <i class="fa fa-map-marker"></i> Room 430
+* <span class="text-primary">Breakout #4:</span>  **SSIDs and Banner by Carl Ellsworth, Utah State University**
+  <span class="text-muted">**Description:** USU has developed a package to update SSIDs in batch directly on the Banner database. This package connects to the State of Utah SSID web service directly from the Oracle Database.</span><i class="fa fa-map-marker"></i> Room 476
 * <span class="text-primary">Breakout #5:</span>  **Birds of a Feather**
 
 ### Advancement
