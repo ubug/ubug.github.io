@@ -1,12 +1,12 @@
 name: UBUG Conference
 markdown: redcarpet
 pygments: true
-venue: <a href="http://Dixie.edu/">Dixie State University</a>
-city: St George
-school: DSU
-year: 2015
-eventdate: May 14th &amp; 15th 2015
-registration_form: https://commerce.cashnet.com/WEBUBUG
-register_button_text: Register Here
+venue: <a href="http://Dixie.edu/">Utah Valley University</a>
+city: Orem
+school: UVU
+year: 2016
+eventdate: 2016
+registration_form: 
+register_button_text: Registration Closed
 register_button_help_text: 
 exclude: [node_modules, Gruntfile.coffee, package.json, bower.json, _js, _sass]
