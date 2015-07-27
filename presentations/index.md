@@ -12,4 +12,4 @@ title: Presentations
 * [Localizing Degree Works SEP](/presentations/LocalizingDegreeWorksSEP.PPTX)
 * [Registration XE](/presentations/RegistrationXE.pptx)
 * [SSID and Banner](/presentations/SSIDandBanner.pptx)
-* [Utah - Ellucian's Techonology Update](/presentations/Utah-ElluciansTechnologyUpdate.pdf)
+
