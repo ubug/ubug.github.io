@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Accommodations
+redirect_to:
+  - https://www.uvu.edu/conferences/ubug/travel.html
 ---
 
 ## Popular nearby hotels

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Committee
+redirect_to:
+  - https://www.uvu.edu/conferences/ubug/index.html
 ---
 
 **Big Kahuna**  

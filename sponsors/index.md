@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Sponsors
+redirect_to:
+  - https://www.uvu.edu/conferences/ubug/index.html
 ---
 
 [![Ellucian](/img/ellucian.jpeg)][ellucian]

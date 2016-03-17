@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Presentations
+redirect_to:
+  - https://www.uvu.edu/conferences/ubug/program.html
 ---
 
 

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Location
+redirect_to:
+  - https://www.uvu.edu/conferences/ubug/travel.html
 ---
 
 

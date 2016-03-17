@@ -1,6 +1,6 @@
 name: UBUG Conference
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 venue: <a href="https://www.uvu.edu/conferences/ubug/travel.html">Utah Valley University</a>
 city: Orem
 school: UVU
@@ -11,3 +11,5 @@ register_button_text: Register Now
 register_link: https://aceweb.uvu.edu/CourseStatus.awp?&Course=16WCUV001D81
 register_button_help_text: 
 exclude: [node_modules, Gruntfile.coffee, package.json, bower.json, _js, _sass]
+gems:
+  - jekyll-redirect-from
