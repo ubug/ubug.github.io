@@ -2,7 +2,7 @@
 layout: page
 title: Sponsors
 redirect_to:
-  - https://www.uvu.edu/conferences/ubug/index.html
+  - https://www.snow.edu/academics/ir/ubug.html
 ---
 
 [![Ellucian](/img/ellucian.jpeg)][ellucian]

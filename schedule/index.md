@@ -2,7 +2,7 @@
 layout: page
 title: <i class="fa fa-calendar"></i> Schedule
 redirect_to:
-  - https://www.uvu.edu/conferences/ubug/program.html
+  - https://www.snow.edu/academics/ir/ubug.html
 ---
 
 <p class="lead"><a href="/img/ubug-2015.pdf"><i class="fa fa-map-marker"></i> Venue Map</a></p> 
